@@ -1,0 +1,2661 @@
+State,Sex,Age_group,COVID-19_Deaths
+United_States,All_Sexes,All_Ages,170566
+United_States,All_Sexes,Under_1_year,18
+United_States,All_Sexes,0-17 ,85
+United_States,All_Sexes,1-4 ,14
+United_States,All_Sexes,5-14 ,28
+United_States,All_Sexes,15-24 ,300
+United_States,All_Sexes,18-29 ,741
+United_States,All_Sexes,25-34 ,1318
+United_States,All_Sexes,30-49 ,7782
+United_States,All_Sexes,35-44 ,3450
+United_States,All_Sexes,45-54 ,9047
+United_States,All_Sexes,50-64 ,27119
+United_States,All_Sexes,55-64 ,21552
+United_States,All_Sexes,65-74 ,36434
+United_States,All_Sexes,75-84 ,45022
+United_States,All_Sexes,85 _and_over,53383
+United_States,Male,Under_1_year,13
+United_States,Male,0-17 ,53
+United_States,Male,1-4 ,7
+United_States,Male,5-14 ,20
+United_States,Male,15-24 ,187
+United_States,Male,18-29 ,485
+United_States,Male,25-34 ,878
+United_States,Male,30-49 ,5360
+United_States,Male,35-44 ,2369
+United_States,Male,45-54 ,6183
+United_States,Male,50-64 ,17827
+United_States,Male,55-64 ,14068
+United_States,Male,65-74 ,22446
+United_States,Male,75-84 ,24762
+United_States,Male,85 _and_over,21188
+United_States,Male,All_Ages,92121
+United_States,Female,Under_1_year,5
+United_States,Female,0-17 ,32
+United_States,Female,1-4 ,7
+United_States,Female,5-14 ,8
+United_States,Female,15-24 ,113
+United_States,Female,18-29 ,256
+United_States,Female,25-34 ,440
+United_States,Female,30-49 ,2422
+United_States,Female,35-44 ,1081
+United_States,Female,45-54 ,2863
+United_States,Female,50-64 ,9291
+United_States,Female,55-64 ,7484
+United_States,Female,65-74 ,13987
+United_States,Female,75-84 ,20259
+United_States,Female,85 _and_over,32194
+United_States,Female,All_Ages,78441
+United_States,Unknown,Under_1_year,0
+United_States,Unknown,0-17 ,0
+United_States,Unknown,1-4 ,0
+United_States,Unknown,5-14 ,0
+United_States,Unknown,15-24 ,0
+United_States,Unknown,18-29 ,0
+United_States,Unknown,25-34 ,0
+United_States,Unknown,30-49 ,0
+United_States,Unknown,35-44 ,0
+United_States,Unknown,45-54 ,1
+United_States,Unknown,50-64 ,1
+United_States,Unknown,55-64 ,0
+United_States,Unknown,65-74 ,1
+United_States,Unknown,75-84 ,1
+United_States,Unknown,85 _and_over,1
+United_States,Unknown,All_Ages,4
+Alabama,Male,Under_1_year,
+Alabama,Male,0-17 ,
+Alabama,Male,1-4 ,0
+Alabama,Male,5-14 ,0
+Alabama,Male,15-24 ,
+Alabama,Male,18-29 ,
+Alabama,Male,25-34 ,14
+Alabama,Male,30-49 ,73
+Alabama,Male,35-44 ,31
+Alabama,Male,45-54 ,94
+Alabama,Male,50-64 ,262
+Alabama,Male,55-64 ,201
+Alabama,Male,65-74 ,363
+Alabama,Male,75-84 ,369
+Alabama,Male,85 _and_over,249
+Alabama,Male,All_Ages,1324
+Alabama,Female,Under_1_year,0
+Alabama,Female,0-17 ,0
+Alabama,Female,1-4 ,0
+Alabama,Female,5-14 ,0
+Alabama,Female,15-24 ,0
+Alabama,Female,18-29 ,
+Alabama,Female,25-34 ,
+Alabama,Female,30-49 ,50
+Alabama,Female,35-44 ,23
+Alabama,Female,45-54 ,69
+Alabama,Female,50-64 ,200
+Alabama,Female,55-64 ,152
+Alabama,Female,65-74 ,286
+Alabama,Female,75-84 ,329
+Alabama,Female,85 _and_over,419
+Alabama,Female,All_Ages,1285
+Alabama,Unknown,Under_1_year,0
+Alabama,Unknown,0-17 ,0
+Alabama,Unknown,1-4 ,0
+Alabama,Unknown,5-14 ,0
+Alabama,Unknown,15-24 ,0
+Alabama,Unknown,18-29 ,0
+Alabama,Unknown,25-34 ,0
+Alabama,Unknown,30-49 ,0
+Alabama,Unknown,35-44 ,0
+Alabama,Unknown,45-54 ,0
+Alabama,Unknown,50-64 ,0
+Alabama,Unknown,55-64 ,0
+Alabama,Unknown,65-74 ,0
+Alabama,Unknown,75-84 ,0
+Alabama,Unknown,85 _and_over,0
+Alabama,Unknown,All_Ages,0
+Alabama,All_Sexes,All_Ages,2609
+Alaska,Male,Under_1_year,0
+Alaska,Male,0-17 ,0
+Alaska,Male,1-4 ,0
+Alaska,Male,5-14 ,0
+Alaska,Male,15-24 ,0
+Alaska,Male,18-29 ,0
+Alaska,Male,25-34 ,0
+Alaska,Male,30-49 ,
+Alaska,Male,35-44 ,0
+Alaska,Male,45-54 ,
+Alaska,Male,50-64 ,
+Alaska,Male,55-64 ,
+Alaska,Male,65-74 ,
+Alaska,Male,75-84 ,
+Alaska,Male,85 _and_over,
+Alaska,Male,All_Ages,20
+Alaska,Female,Under_1_year,0
+Alaska,Female,0-17 ,0
+Alaska,Female,1-4 ,0
+Alaska,Female,5-14 ,0
+Alaska,Female,15-24 ,0
+Alaska,Female,18-29 ,0
+Alaska,Female,25-34 ,
+Alaska,Female,30-49 ,
+Alaska,Female,35-44 ,0
+Alaska,Female,45-54 ,
+Alaska,Female,50-64 ,
+Alaska,Female,55-64 ,
+Alaska,Female,65-74 ,
+Alaska,Female,75-84 ,
+Alaska,Female,85 _and_over,
+Alaska,Female,All_Ages,10
+Alaska,Unknown,Under_1_year,0
+Alaska,Unknown,0-17 ,0
+Alaska,Unknown,1-4 ,0
+Alaska,Unknown,5-14 ,0
+Alaska,Unknown,15-24 ,0
+Alaska,Unknown,18-29 ,0
+Alaska,Unknown,25-34 ,0
+Alaska,Unknown,30-49 ,0
+Alaska,Unknown,35-44 ,0
+Alaska,Unknown,45-54 ,0
+Alaska,Unknown,50-64 ,0
+Alaska,Unknown,55-64 ,0
+Alaska,Unknown,65-74 ,0
+Alaska,Unknown,75-84 ,0
+Alaska,Unknown,85 _and_over,0
+Alaska,Unknown,All_Ages,0
+Alaska,All_Sexes,All_Ages,30
+Arizona,Male,Under_1_year,0
+Arizona,Male,0-17 ,
+Arizona,Male,1-4 ,
+Arizona,Male,5-14 ,
+Arizona,Male,15-24 ,12
+Arizona,Male,18-29 ,32
+Arizona,Male,25-34 ,50
+Arizona,Male,30-49 ,208
+Arizona,Male,35-44 ,96
+Arizona,Male,45-54 ,221
+Arizona,Male,50-64 ,589
+Arizona,Male,55-64 ,451
+Arizona,Male,65-74 ,613
+Arizona,Male,75-84 ,691
+Arizona,Male,85 _and_over,492
+Arizona,Male,All_Ages,2630
+Arizona,Female,Under_1_year,0
+Arizona,Female,0-17 ,0
+Arizona,Female,1-4 ,0
+Arizona,Female,5-14 ,0
+Arizona,Female,15-24 ,
+Arizona,Female,18-29 ,15
+Arizona,Female,25-34 ,24
+Arizona,Female,30-49 ,115
+Arizona,Female,35-44 ,51
+Arizona,Female,45-54 ,98
+Arizona,Female,50-64 ,308
+Arizona,Female,55-64 ,259
+Arizona,Female,65-74 ,417
+Arizona,Female,75-84 ,510
+Arizona,Female,85 _and_over,559
+Arizona,Female,All_Ages,1924
+Arizona,Unknown,Under_1_year,0
+Arizona,Unknown,0-17 ,0
+Arizona,Unknown,1-4 ,0
+Arizona,Unknown,5-14 ,0
+Arizona,Unknown,15-24 ,0
+Arizona,Unknown,18-29 ,0
+Arizona,Unknown,25-34 ,0
+Arizona,Unknown,30-49 ,0
+Arizona,Unknown,35-44 ,0
+Arizona,Unknown,45-54 ,0
+Arizona,Unknown,50-64 ,0
+Arizona,Unknown,55-64 ,0
+Arizona,Unknown,65-74 ,0
+Arizona,Unknown,75-84 ,0
+Arizona,Unknown,85 _and_over,0
+Arizona,Unknown,All_Ages,0
+Arizona,All_Sexes,All_Ages,4554
+Arkansas,Male,Under_1_year,0
+Arkansas,Male,0-17 ,0
+Arkansas,Male,1-4 ,0
+Arkansas,Male,5-14 ,0
+Arkansas,Male,15-24 ,
+Arkansas,Male,18-29 ,
+Arkansas,Male,25-34 ,
+Arkansas,Male,30-49 ,32
+Arkansas,Male,35-44 ,10
+Arkansas,Male,45-54 ,36
+Arkansas,Male,50-64 ,96
+Arkansas,Male,55-64 ,77
+Arkansas,Male,65-74 ,95
+Arkansas,Male,75-84 ,115
+Arkansas,Male,85 _and_over,81
+Arkansas,Male,All_Ages,423
+Arkansas,Female,Under_1_year,0
+Arkansas,Female,0-17 ,0
+Arkansas,Female,1-4 ,0
+Arkansas,Female,5-14 ,0
+Arkansas,Female,15-24 ,
+Arkansas,Female,18-29 ,
+Arkansas,Female,25-34 ,
+Arkansas,Female,30-49 ,24
+Arkansas,Female,35-44 ,11
+Arkansas,Female,45-54 ,13
+Arkansas,Female,50-64 ,50
+Arkansas,Female,55-64 ,45
+Arkansas,Female,65-74 ,53
+Arkansas,Female,75-84 ,88
+Arkansas,Female,85 _and_over,136
+Arkansas,Female,All_Ages,354
+Arkansas,Unknown,Under_1_year,0
+Arkansas,Unknown,0-17 ,0
+Arkansas,Unknown,1-4 ,0
+Arkansas,Unknown,5-14 ,0
+Arkansas,Unknown,15-24 ,0
+Arkansas,Unknown,18-29 ,0
+Arkansas,Unknown,25-34 ,0
+Arkansas,Unknown,30-49 ,0
+Arkansas,Unknown,35-44 ,0
+Arkansas,Unknown,45-54 ,0
+Arkansas,Unknown,50-64 ,0
+Arkansas,Unknown,55-64 ,0
+Arkansas,Unknown,65-74 ,0
+Arkansas,Unknown,75-84 ,0
+Arkansas,Unknown,85 _and_over,0
+Arkansas,Unknown,All_Ages,0
+Arkansas,All_Sexes,All_Ages,777
+California,Male,Under_1_year,
+California,Male,0-17 ,
+California,Male,1-4 ,0
+California,Male,5-14 ,0
+California,Male,15-24 ,17
+California,Male,18-29 ,46
+California,Male,25-34 ,84
+California,Male,30-49 ,574
+California,Male,35-44 ,263
+California,Male,45-54 ,621
+California,Male,50-64 ,1643
+California,Male,55-64 ,1279
+California,Male,65-74 ,1759
+California,Male,75-84 ,1677
+California,Male,85 _and_over,1476
+California,Male,All_Ages,7177
+California,Female,Under_1_year,0
+California,Female,0-17 ,
+California,Female,1-4 ,0
+California,Female,5-14 ,0
+California,Female,15-24 ,15
+California,Female,18-29 ,25
+California,Female,25-34 ,38
+California,Female,30-49 ,225
+California,Female,35-44 ,109
+California,Female,45-54 ,252
+California,Female,50-64 ,686
+California,Female,55-64 ,524
+California,Female,65-74 ,926
+California,Female,75-84 ,1277
+California,Female,85 _and_over,2018
+California,Female,All_Ages,5159
+California,Unknown,Under_1_year,0
+California,Unknown,0-17 ,0
+California,Unknown,1-4 ,0
+California,Unknown,5-14 ,0
+California,Unknown,15-24 ,0
+California,Unknown,18-29 ,0
+California,Unknown,25-34 ,0
+California,Unknown,30-49 ,0
+California,Unknown,35-44 ,0
+California,Unknown,45-54 ,0
+California,Unknown,50-64 ,0
+California,Unknown,55-64 ,0
+California,Unknown,65-74 ,0
+California,Unknown,75-84 ,0
+California,Unknown,85 _and_over,0
+California,Unknown,All_Ages,0
+California,All_Sexes,All_Ages,12336
+Colorado,Male,Under_1_year,0
+Colorado,Male,0-17 ,
+Colorado,Male,1-4 ,0
+Colorado,Male,5-14 ,0
+Colorado,Male,15-24 ,
+Colorado,Male,18-29 ,
+Colorado,Male,25-34 ,
+Colorado,Male,30-49 ,52
+Colorado,Male,35-44 ,18
+Colorado,Male,45-54 ,66
+Colorado,Male,50-64 ,168
+Colorado,Male,55-64 ,133
+Colorado,Male,65-74 ,232
+Colorado,Male,75-84 ,298
+Colorado,Male,85 _and_over,290
+Colorado,Male,All_Ages,1047
+Colorado,Female,Under_1_year,0
+Colorado,Female,0-17 ,
+Colorado,Female,1-4 ,0
+Colorado,Female,5-14 ,0
+Colorado,Female,15-24 ,
+Colorado,Female,18-29 ,
+Colorado,Female,25-34 ,
+Colorado,Female,30-49 ,14
+Colorado,Female,35-44 ,
+Colorado,Female,45-54 ,22
+Colorado,Female,50-64 ,64
+Colorado,Female,55-64 ,46
+Colorado,Female,65-74 ,127
+Colorado,Female,75-84 ,216
+Colorado,Female,85 _and_over,382
+Colorado,Female,All_Ages,806
+Colorado,Unknown,Under_1_year,0
+Colorado,Unknown,0-17 ,0
+Colorado,Unknown,1-4 ,0
+Colorado,Unknown,5-14 ,0
+Colorado,Unknown,15-24 ,0
+Colorado,Unknown,18-29 ,0
+Colorado,Unknown,25-34 ,0
+Colorado,Unknown,30-49 ,0
+Colorado,Unknown,35-44 ,0
+Colorado,Unknown,45-54 ,0
+Colorado,Unknown,50-64 ,0
+Colorado,Unknown,55-64 ,0
+Colorado,Unknown,65-74 ,0
+Colorado,Unknown,75-84 ,0
+Colorado,Unknown,85 _and_over,0
+Colorado,Unknown,All_Ages,0
+Colorado,All_Sexes,All_Ages,1853
+Connecticut,Male,Under_1_year,0
+Connecticut,Male,0-17 ,0
+Connecticut,Male,1-4 ,0
+Connecticut,Male,5-14 ,0
+Connecticut,Male,15-24 ,
+Connecticut,Male,18-29 ,
+Connecticut,Male,25-34 ,
+Connecticut,Male,30-49 ,54
+Connecticut,Male,35-44 ,19
+Connecticut,Male,45-54 ,74
+Connecticut,Male,50-64 ,275
+Connecticut,Male,55-64 ,230
+Connecticut,Male,65-74 ,452
+Connecticut,Male,75-84 ,567
+Connecticut,Male,85 _and_over,714
+Connecticut,Male,All_Ages,2066
+Connecticut,Female,Under_1_year,0
+Connecticut,Female,0-17 ,0
+Connecticut,Female,1-4 ,0
+Connecticut,Female,5-14 ,0
+Connecticut,Female,15-24 ,
+Connecticut,Female,18-29 ,
+Connecticut,Female,25-34 ,
+Connecticut,Female,30-49 ,23
+Connecticut,Female,35-44 ,
+Connecticut,Female,45-54 ,26
+Connecticut,Female,50-64 ,138
+Connecticut,Female,55-64 ,123
+Connecticut,Female,65-74 ,283
+Connecticut,Female,75-84 ,561
+Connecticut,Female,85 _and_over,1229
+Connecticut,Female,All_Ages,2236
+Connecticut,Unknown,Under_1_year,0
+Connecticut,Unknown,0-17 ,0
+Connecticut,Unknown,1-4 ,0
+Connecticut,Unknown,5-14 ,0
+Connecticut,Unknown,15-24 ,0
+Connecticut,Unknown,18-29 ,0
+Connecticut,Unknown,25-34 ,0
+Connecticut,Unknown,30-49 ,0
+Connecticut,Unknown,35-44 ,0
+Connecticut,Unknown,45-54 ,0
+Connecticut,Unknown,50-64 ,0
+Connecticut,Unknown,55-64 ,0
+Connecticut,Unknown,65-74 ,0
+Connecticut,Unknown,75-84 ,0
+Connecticut,Unknown,85 _and_over,0
+Connecticut,Unknown,All_Ages,0
+Connecticut,All_Sexes,All_Ages,4302
+Delaware,Male,Under_1_year,0
+Delaware,Male,0-17 ,0
+Delaware,Male,1-4 ,0
+Delaware,Male,5-14 ,0
+Delaware,Male,15-24 ,
+Delaware,Male,18-29 ,
+Delaware,Male,25-34 ,
+Delaware,Male,30-49 ,10
+Delaware,Male,35-44 ,
+Delaware,Male,45-54 ,10
+Delaware,Male,50-64 ,37
+Delaware,Male,55-64 ,31
+Delaware,Male,65-74 ,75
+Delaware,Male,75-84 ,71
+Delaware,Male,85 _and_over,65
+Delaware,Male,All_Ages,260
+Delaware,Female,Under_1_year,0
+Delaware,Female,0-17 ,0
+Delaware,Female,1-4 ,0
+Delaware,Female,5-14 ,0
+Delaware,Female,15-24 ,
+Delaware,Female,18-29 ,
+Delaware,Female,25-34 ,
+Delaware,Female,30-49 ,
+Delaware,Female,35-44 ,
+Delaware,Female,45-54 ,15
+Delaware,Female,50-64 ,35
+Delaware,Female,55-64 ,23
+Delaware,Female,65-74 ,43
+Delaware,Female,75-84 ,70
+Delaware,Female,85 _and_over,132
+Delaware,Female,All_Ages,290
+Delaware,Unknown,Under_1_year,0
+Delaware,Unknown,0-17 ,0
+Delaware,Unknown,1-4 ,0
+Delaware,Unknown,5-14 ,0
+Delaware,Unknown,15-24 ,0
+Delaware,Unknown,18-29 ,0
+Delaware,Unknown,25-34 ,0
+Delaware,Unknown,30-49 ,0
+Delaware,Unknown,35-44 ,0
+Delaware,Unknown,45-54 ,0
+Delaware,Unknown,50-64 ,0
+Delaware,Unknown,55-64 ,0
+Delaware,Unknown,65-74 ,0
+Delaware,Unknown,75-84 ,0
+Delaware,Unknown,85 _and_over,0
+Delaware,Unknown,All_Ages,0
+Delaware,All_Sexes,All_Ages,550
+District_of_Columbia,Male,Under_1_year,
+District_of_Columbia,Male,0-17 ,
+District_of_Columbia,Male,1-4 ,0
+District_of_Columbia,Male,5-14 ,0
+District_of_Columbia,Male,15-24 ,0
+District_of_Columbia,Male,18-29 ,
+District_of_Columbia,Male,25-34 ,
+District_of_Columbia,Male,30-49 ,40
+District_of_Columbia,Male,35-44 ,21
+District_of_Columbia,Male,45-54 ,45
+District_of_Columbia,Male,50-64 ,109
+District_of_Columbia,Male,55-64 ,81
+District_of_Columbia,Male,65-74 ,125
+District_of_Columbia,Male,75-84 ,88
+District_of_Columbia,Male,85 _and_over,58
+District_of_Columbia,Male,All_Ages,423
+District_of_Columbia,Female,Under_1_year,0
+District_of_Columbia,Female,0-17 ,0
+District_of_Columbia,Female,1-4 ,0
+District_of_Columbia,Female,5-14 ,0
+District_of_Columbia,Female,15-24 ,
+District_of_Columbia,Female,18-29 ,
+District_of_Columbia,Female,25-34 ,
+District_of_Columbia,Female,30-49 ,14
+District_of_Columbia,Female,35-44 ,
+District_of_Columbia,Female,45-54 ,21
+District_of_Columbia,Female,50-64 ,62
+District_of_Columbia,Female,55-64 ,49
+District_of_Columbia,Female,65-74 ,67
+District_of_Columbia,Female,75-84 ,61
+District_of_Columbia,Female,85 _and_over,87
+District_of_Columbia,Female,All_Ages,294
+District_of_Columbia,Unknown,Under_1_year,0
+District_of_Columbia,Unknown,0-17 ,0
+District_of_Columbia,Unknown,1-4 ,0
+District_of_Columbia,Unknown,5-14 ,0
+District_of_Columbia,Unknown,15-24 ,0
+District_of_Columbia,Unknown,18-29 ,0
+District_of_Columbia,Unknown,25-34 ,0
+District_of_Columbia,Unknown,30-49 ,0
+District_of_Columbia,Unknown,35-44 ,0
+District_of_Columbia,Unknown,45-54 ,0
+District_of_Columbia,Unknown,50-64 ,0
+District_of_Columbia,Unknown,55-64 ,0
+District_of_Columbia,Unknown,65-74 ,0
+District_of_Columbia,Unknown,75-84 ,0
+District_of_Columbia,Unknown,85 _and_over,0
+District_of_Columbia,Unknown,All_Ages,0
+District_of_Columbia,All_Sexes,All_Ages,717
+Florida,Male,Under_1_year,0
+Florida,Male,0-17 ,
+Florida,Male,1-4 ,0
+Florida,Male,5-14 ,
+Florida,Male,15-24 ,14
+Florida,Male,18-29 ,27
+Florida,Male,25-34 ,40
+Florida,Male,30-49 ,274
+Florida,Male,35-44 ,126
+Florida,Male,45-54 ,312
+Florida,Male,50-64 ,963
+Florida,Male,55-64 ,773
+Florida,Male,65-74 ,1366
+Florida,Male,75-84 ,1783
+Florida,Male,85 _and_over,1534
+Florida,Male,All_Ages,5949
+Florida,Female,Under_1_year,0
+Florida,Female,0-17 ,
+Florida,Female,1-4 ,0
+Florida,Female,5-14 ,
+Florida,Female,15-24 ,
+Florida,Female,18-29 ,13
+Florida,Female,25-34 ,25
+Florida,Female,30-49 ,152
+Florida,Female,35-44 ,76
+Florida,Female,45-54 ,156
+Florida,Female,50-64 ,487
+Florida,Female,55-64 ,389
+Florida,Female,65-74 ,894
+Florida,Female,75-84 ,1340
+Florida,Female,85 _and_over,1901
+Florida,Female,All_Ages,4789
+Florida,Unknown,Under_1_year,0
+Florida,Unknown,0-17 ,0
+Florida,Unknown,1-4 ,0
+Florida,Unknown,5-14 ,0
+Florida,Unknown,15-24 ,0
+Florida,Unknown,18-29 ,0
+Florida,Unknown,25-34 ,0
+Florida,Unknown,30-49 ,0
+Florida,Unknown,35-44 ,0
+Florida,Unknown,45-54 ,0
+Florida,Unknown,50-64 ,0
+Florida,Unknown,55-64 ,0
+Florida,Unknown,65-74 ,0
+Florida,Unknown,75-84 ,0
+Florida,Unknown,85 _and_over,0
+Florida,Unknown,All_Ages,0
+Florida,All_Sexes,All_Ages,10738
+Georgia,Male,Under_1_year,
+Georgia,Male,0-17 ,
+Georgia,Male,1-4 ,
+Georgia,Male,5-14 ,
+Georgia,Male,15-24 ,
+Georgia,Male,18-29 ,13
+Georgia,Male,25-34 ,31
+Georgia,Male,30-49 ,134
+Georgia,Male,35-44 ,48
+Georgia,Male,45-54 ,164
+Georgia,Male,50-64 ,482
+Georgia,Male,55-64 ,381
+Georgia,Male,65-74 ,632
+Georgia,Male,75-84 ,664
+Georgia,Male,85 _and_over,435
+Georgia,Male,All_Ages,2365
+Georgia,Female,Under_1_year,0
+Georgia,Female,0-17 ,
+Georgia,Female,1-4 ,0
+Georgia,Female,5-14 ,
+Georgia,Female,15-24 ,
+Georgia,Female,18-29 ,12
+Georgia,Female,25-34 ,25
+Georgia,Female,30-49 ,119
+Georgia,Female,35-44 ,56
+Georgia,Female,45-54 ,102
+Georgia,Female,50-64 ,325
+Georgia,Female,55-64 ,268
+Georgia,Female,65-74 ,451
+Georgia,Female,75-84 ,577
+Georgia,Female,85 _and_over,688
+Georgia,Female,All_Ages,2173
+Georgia,Unknown,Under_1_year,0
+Georgia,Unknown,0-17 ,0
+Georgia,Unknown,1-4 ,0
+Georgia,Unknown,5-14 ,0
+Georgia,Unknown,15-24 ,0
+Georgia,Unknown,18-29 ,0
+Georgia,Unknown,25-34 ,0
+Georgia,Unknown,30-49 ,0
+Georgia,Unknown,35-44 ,0
+Georgia,Unknown,45-54 ,0
+Georgia,Unknown,50-64 ,0
+Georgia,Unknown,55-64 ,0
+Georgia,Unknown,65-74 ,0
+Georgia,Unknown,75-84 ,0
+Georgia,Unknown,85 _and_over,0
+Georgia,Unknown,All_Ages,0
+Georgia,All_Sexes,All_Ages,4538
+Hawaii,Male,Under_1_year,0
+Hawaii,Male,0-17 ,0
+Hawaii,Male,1-4 ,0
+Hawaii,Male,5-14 ,0
+Hawaii,Male,15-24 ,0
+Hawaii,Male,18-29 ,0
+Hawaii,Male,25-34 ,0
+Hawaii,Male,30-49 ,0
+Hawaii,Male,35-44 ,0
+Hawaii,Male,45-54 ,
+Hawaii,Male,50-64 ,
+Hawaii,Male,55-64 ,
+Hawaii,Male,65-74 ,10
+Hawaii,Male,75-84 ,
+Hawaii,Male,85 _and_over,
+Hawaii,Male,All_Ages,25
+Hawaii,Female,Under_1_year,0
+Hawaii,Female,0-17 ,0
+Hawaii,Female,1-4 ,0
+Hawaii,Female,5-14 ,0
+Hawaii,Female,15-24 ,0
+Hawaii,Female,18-29 ,
+Hawaii,Female,25-34 ,
+Hawaii,Female,30-49 ,0
+Hawaii,Female,35-44 ,0
+Hawaii,Female,45-54 ,
+Hawaii,Female,50-64 ,
+Hawaii,Female,55-64 ,
+Hawaii,Female,65-74 ,
+Hawaii,Female,75-84 ,
+Hawaii,Female,85 _and_over,
+Hawaii,Female,All_Ages,15
+Hawaii,Unknown,Under_1_year,0
+Hawaii,Unknown,0-17 ,0
+Hawaii,Unknown,1-4 ,0
+Hawaii,Unknown,5-14 ,0
+Hawaii,Unknown,15-24 ,0
+Hawaii,Unknown,18-29 ,0
+Hawaii,Unknown,25-34 ,0
+Hawaii,Unknown,30-49 ,0
+Hawaii,Unknown,35-44 ,0
+Hawaii,Unknown,45-54 ,0
+Hawaii,Unknown,50-64 ,0
+Hawaii,Unknown,55-64 ,0
+Hawaii,Unknown,65-74 ,0
+Hawaii,Unknown,75-84 ,0
+Hawaii,Unknown,85 _and_over,0
+Hawaii,Unknown,All_Ages,0
+Hawaii,All_Sexes,All_Ages,40
+Idaho,Male,Under_1_year,0
+Idaho,Male,0-17 ,0
+Idaho,Male,1-4 ,0
+Idaho,Male,5-14 ,0
+Idaho,Male,15-24 ,0
+Idaho,Male,18-29 ,0
+Idaho,Male,25-34 ,0
+Idaho,Male,30-49 ,
+Idaho,Male,35-44 ,
+Idaho,Male,45-54 ,
+Idaho,Male,50-64 ,18
+Idaho,Male,55-64 ,16
+Idaho,Male,65-74 ,37
+Idaho,Male,75-84 ,72
+Idaho,Male,85 _and_over,61
+Idaho,Male,All_Ages,195
+Idaho,Female,Under_1_year,0
+Idaho,Female,0-17 ,0
+Idaho,Female,1-4 ,0
+Idaho,Female,5-14 ,0
+Idaho,Female,15-24 ,0
+Idaho,Female,18-29 ,0
+Idaho,Female,25-34 ,0
+Idaho,Female,30-49 ,
+Idaho,Female,35-44 ,
+Idaho,Female,45-54 ,
+Idaho,Female,50-64 ,11
+Idaho,Female,55-64 ,10
+Idaho,Female,65-74 ,27
+Idaho,Female,75-84 ,34
+Idaho,Female,85 _and_over,69
+Idaho,Female,All_Ages,145
+Idaho,Unknown,Under_1_year,0
+Idaho,Unknown,0-17 ,0
+Idaho,Unknown,1-4 ,0
+Idaho,Unknown,5-14 ,0
+Idaho,Unknown,15-24 ,0
+Idaho,Unknown,18-29 ,0
+Idaho,Unknown,25-34 ,0
+Idaho,Unknown,30-49 ,0
+Idaho,Unknown,35-44 ,0
+Idaho,Unknown,45-54 ,0
+Idaho,Unknown,50-64 ,0
+Idaho,Unknown,55-64 ,0
+Idaho,Unknown,65-74 ,0
+Idaho,Unknown,75-84 ,0
+Idaho,Unknown,85 _and_over,0
+Idaho,Unknown,All_Ages,0
+Idaho,All_Sexes,All_Ages,340
+Illinois,Male,Under_1_year,
+Illinois,Male,0-17 ,
+Illinois,Male,1-4 ,0
+Illinois,Male,5-14 ,
+Illinois,Male,15-24 ,
+Illinois,Male,18-29 ,21
+Illinois,Male,25-34 ,43
+Illinois,Male,30-49 ,278
+Illinois,Male,35-44 ,126
+Illinois,Male,45-54 ,305
+Illinois,Male,50-64 ,792
+Illinois,Male,55-64 ,609
+Illinois,Male,65-74 ,1014
+Illinois,Male,75-84 ,1039
+Illinois,Male,85 _and_over,844
+Illinois,Male,All_Ages,3990
+Illinois,Female,Under_1_year,
+Illinois,Female,0-17 ,
+Illinois,Female,1-4 ,0
+Illinois,Female,5-14 ,0
+Illinois,Female,15-24 ,
+Illinois,Female,18-29 ,12
+Illinois,Female,25-34 ,20
+Illinois,Female,30-49 ,108
+Illinois,Female,35-44 ,51
+Illinois,Female,45-54 ,125
+Illinois,Female,50-64 ,406
+Illinois,Female,55-64 ,323
+Illinois,Female,65-74 ,562
+Illinois,Female,75-84 ,802
+Illinois,Female,85 _and_over,1422
+Illinois,Female,All_Ages,3313
+Illinois,Unknown,Under_1_year,0
+Illinois,Unknown,0-17 ,0
+Illinois,Unknown,1-4 ,0
+Illinois,Unknown,5-14 ,0
+Illinois,Unknown,15-24 ,0
+Illinois,Unknown,18-29 ,0
+Illinois,Unknown,25-34 ,0
+Illinois,Unknown,30-49 ,0
+Illinois,Unknown,35-44 ,0
+Illinois,Unknown,45-54 ,0
+Illinois,Unknown,50-64 ,0
+Illinois,Unknown,55-64 ,0
+Illinois,Unknown,65-74 ,0
+Illinois,Unknown,75-84 ,0
+Illinois,Unknown,85 _and_over,0
+Illinois,Unknown,All_Ages,0
+Illinois,All_Sexes,All_Ages,7303
+Indiana,Male,Under_1_year,0
+Indiana,Male,0-17 ,
+Indiana,Male,1-4 ,
+Indiana,Male,5-14 ,0
+Indiana,Male,15-24 ,
+Indiana,Male,18-29 ,
+Indiana,Male,25-34 ,10
+Indiana,Male,30-49 ,46
+Indiana,Male,35-44 ,16
+Indiana,Male,45-54 ,56
+Indiana,Male,50-64 ,224
+Indiana,Male,55-64 ,191
+Indiana,Male,65-74 ,424
+Indiana,Male,75-84 ,455
+Indiana,Male,85 _and_over,444
+Indiana,Male,All_Ages,1598
+Indiana,Female,Under_1_year,0
+Indiana,Female,0-17 ,0
+Indiana,Female,1-4 ,0
+Indiana,Female,5-14 ,0
+Indiana,Female,15-24 ,
+Indiana,Female,18-29 ,
+Indiana,Female,25-34 ,
+Indiana,Female,30-49 ,28
+Indiana,Female,35-44 ,15
+Indiana,Female,45-54 ,38
+Indiana,Female,50-64 ,138
+Indiana,Female,55-64 ,113
+Indiana,Female,65-74 ,259
+Indiana,Female,75-84 ,449
+Indiana,Female,85 _and_over,690
+Indiana,Female,All_Ages,1568
+Indiana,Unknown,Under_1_year,0
+Indiana,Unknown,0-17 ,0
+Indiana,Unknown,1-4 ,0
+Indiana,Unknown,5-14 ,0
+Indiana,Unknown,15-24 ,0
+Indiana,Unknown,18-29 ,0
+Indiana,Unknown,25-34 ,0
+Indiana,Unknown,30-49 ,0
+Indiana,Unknown,35-44 ,0
+Indiana,Unknown,45-54 ,0
+Indiana,Unknown,50-64 ,0
+Indiana,Unknown,55-64 ,0
+Indiana,Unknown,65-74 ,0
+Indiana,Unknown,75-84 ,0
+Indiana,Unknown,85 _and_over,0
+Indiana,Unknown,All_Ages,0
+Indiana,All_Sexes,All_Ages,3166
+Iowa,Male,Under_1_year,0
+Iowa,Male,0-17 ,0
+Iowa,Male,1-4 ,0
+Iowa,Male,5-14 ,0
+Iowa,Male,15-24 ,0
+Iowa,Male,18-29 ,
+Iowa,Male,25-34 ,
+Iowa,Male,30-49 ,20
+Iowa,Male,35-44 ,11
+Iowa,Male,45-54 ,29
+Iowa,Male,50-64 ,110
+Iowa,Male,55-64 ,88
+Iowa,Male,65-74 ,133
+Iowa,Male,75-84 ,140
+Iowa,Male,85 _and_over,166
+Iowa,Male,All_Ages,571
+Iowa,Female,Under_1_year,
+Iowa,Female,0-17 ,
+Iowa,Female,1-4 ,
+Iowa,Female,5-14 ,0
+Iowa,Female,15-24 ,
+Iowa,Female,18-29 ,
+Iowa,Female,25-34 ,
+Iowa,Female,30-49 ,10
+Iowa,Female,35-44 ,
+Iowa,Female,45-54 ,10
+Iowa,Female,50-64 ,60
+Iowa,Female,55-64 ,53
+Iowa,Female,65-74 ,88
+Iowa,Female,75-84 ,120
+Iowa,Female,85 _and_over,216
+Iowa,Female,All_Ages,499
+Iowa,Unknown,Under_1_year,0
+Iowa,Unknown,0-17 ,0
+Iowa,Unknown,1-4 ,0
+Iowa,Unknown,5-14 ,0
+Iowa,Unknown,15-24 ,0
+Iowa,Unknown,18-29 ,0
+Iowa,Unknown,25-34 ,0
+Iowa,Unknown,30-49 ,0
+Iowa,Unknown,35-44 ,0
+Iowa,Unknown,45-54 ,0
+Iowa,Unknown,50-64 ,0
+Iowa,Unknown,55-64 ,0
+Iowa,Unknown,65-74 ,0
+Iowa,Unknown,75-84 ,0
+Iowa,Unknown,85 _and_over,0
+Iowa,Unknown,All_Ages,0
+Iowa,All_Sexes,All_Ages,1070
+Kansas,Male,Under_1_year,0
+Kansas,Male,0-17 ,0
+Kansas,Male,1-4 ,0
+Kansas,Male,5-14 ,0
+Kansas,Male,15-24 ,
+Kansas,Male,18-29 ,
+Kansas,Male,25-34 ,
+Kansas,Male,30-49 ,20
+Kansas,Male,35-44 ,
+Kansas,Male,45-54 ,21
+Kansas,Male,50-64 ,62
+Kansas,Male,55-64 ,52
+Kansas,Male,65-74 ,68
+Kansas,Male,75-84 ,76
+Kansas,Male,85 _and_over,66
+Kansas,Male,All_Ages,295
+Kansas,Female,Under_1_year,0
+Kansas,Female,0-17 ,0
+Kansas,Female,1-4 ,0
+Kansas,Female,5-14 ,0
+Kansas,Female,15-24 ,
+Kansas,Female,18-29 ,
+Kansas,Female,25-34 ,
+Kansas,Female,30-49 ,
+Kansas,Female,35-44 ,
+Kansas,Female,45-54 ,
+Kansas,Female,50-64 ,26
+Kansas,Female,55-64 ,23
+Kansas,Female,65-74 ,37
+Kansas,Female,75-84 ,45
+Kansas,Female,85 _and_over,101
+Kansas,Female,All_Ages,218
+Kansas,Unknown,Under_1_year,0
+Kansas,Unknown,0-17 ,0
+Kansas,Unknown,1-4 ,0
+Kansas,Unknown,5-14 ,0
+Kansas,Unknown,15-24 ,0
+Kansas,Unknown,18-29 ,0
+Kansas,Unknown,25-34 ,0
+Kansas,Unknown,30-49 ,0
+Kansas,Unknown,35-44 ,0
+Kansas,Unknown,45-54 ,0
+Kansas,Unknown,50-64 ,0
+Kansas,Unknown,55-64 ,0
+Kansas,Unknown,65-74 ,0
+Kansas,Unknown,75-84 ,0
+Kansas,Unknown,85 _and_over,0
+Kansas,Unknown,All_Ages,0
+Kansas,All_Sexes,All_Ages,513
+Kentucky,Male,Under_1_year,0
+Kentucky,Male,0-17 ,0
+Kentucky,Male,1-4 ,0
+Kentucky,Male,5-14 ,0
+Kentucky,Male,15-24 ,0
+Kentucky,Male,18-29 ,0
+Kentucky,Male,25-34 ,
+Kentucky,Male,30-49 ,23
+Kentucky,Male,35-44 ,14
+Kentucky,Male,45-54 ,20
+Kentucky,Male,50-64 ,69
+Kentucky,Male,55-64 ,56
+Kentucky,Male,65-74 ,133
+Kentucky,Male,75-84 ,102
+Kentucky,Male,85 _and_over,87
+Kentucky,Male,All_Ages,414
+Kentucky,Female,Under_1_year,0
+Kentucky,Female,0-17 ,0
+Kentucky,Female,1-4 ,0
+Kentucky,Female,5-14 ,0
+Kentucky,Female,15-24 ,0
+Kentucky,Female,18-29 ,0
+Kentucky,Female,25-34 ,
+Kentucky,Female,30-49 ,
+Kentucky,Female,35-44 ,
+Kentucky,Female,45-54 ,14
+Kentucky,Female,50-64 ,52
+Kentucky,Female,55-64 ,43
+Kentucky,Female,65-74 ,83
+Kentucky,Female,75-84 ,130
+Kentucky,Female,85 _and_over,223
+Kentucky,Female,All_Ages,496
+Kentucky,Unknown,Under_1_year,0
+Kentucky,Unknown,0-17 ,0
+Kentucky,Unknown,1-4 ,0
+Kentucky,Unknown,5-14 ,0
+Kentucky,Unknown,15-24 ,0
+Kentucky,Unknown,18-29 ,0
+Kentucky,Unknown,25-34 ,0
+Kentucky,Unknown,30-49 ,0
+Kentucky,Unknown,35-44 ,0
+Kentucky,Unknown,45-54 ,0
+Kentucky,Unknown,50-64 ,0
+Kentucky,Unknown,55-64 ,0
+Kentucky,Unknown,65-74 ,0
+Kentucky,Unknown,75-84 ,0
+Kentucky,Unknown,85 _and_over,0
+Kentucky,Unknown,All_Ages,0
+Kentucky,All_Sexes,All_Ages,910
+Louisiana,Male,Under_1_year,0
+Louisiana,Male,0-17 ,
+Louisiana,Male,1-4 ,
+Louisiana,Male,5-14 ,
+Louisiana,Male,15-24 ,
+Louisiana,Male,18-29 ,10
+Louisiana,Male,25-34 ,17
+Louisiana,Male,30-49 ,122
+Louisiana,Male,35-44 ,50
+Louisiana,Male,45-54 ,142
+Louisiana,Male,50-64 ,410
+Louisiana,Male,55-64 ,327
+Louisiana,Male,65-74 ,551
+Louisiana,Male,75-84 ,657
+Louisiana,Male,85 _and_over,459
+Louisiana,Male,All_Ages,2213
+Louisiana,Female,Under_1_year,
+Louisiana,Female,0-17 ,
+Louisiana,Female,1-4 ,0
+Louisiana,Female,5-14 ,0
+Louisiana,Female,15-24 ,
+Louisiana,Female,18-29 ,10
+Louisiana,Female,25-34 ,16
+Louisiana,Female,30-49 ,85
+Louisiana,Female,35-44 ,43
+Louisiana,Female,45-54 ,91
+Louisiana,Female,50-64 ,300
+Louisiana,Female,55-64 ,242
+Louisiana,Female,65-74 ,366
+Louisiana,Female,75-84 ,569
+Louisiana,Female,85 _and_over,642
+Louisiana,Female,All_Ages,1973
+Louisiana,Unknown,Under_1_year,0
+Louisiana,Unknown,0-17 ,0
+Louisiana,Unknown,1-4 ,0
+Louisiana,Unknown,5-14 ,0
+Louisiana,Unknown,15-24 ,0
+Louisiana,Unknown,18-29 ,0
+Louisiana,Unknown,25-34 ,0
+Louisiana,Unknown,30-49 ,0
+Louisiana,Unknown,35-44 ,0
+Louisiana,Unknown,45-54 ,0
+Louisiana,Unknown,50-64 ,0
+Louisiana,Unknown,55-64 ,0
+Louisiana,Unknown,65-74 ,0
+Louisiana,Unknown,75-84 ,0
+Louisiana,Unknown,85 _and_over,0
+Louisiana,Unknown,All_Ages,0
+Louisiana,All_Sexes,All_Ages,4186
+Maine,Male,Under_1_year,0
+Maine,Male,0-17 ,0
+Maine,Male,1-4 ,0
+Maine,Male,5-14 ,0
+Maine,Male,15-24 ,0
+Maine,Male,18-29 ,0
+Maine,Male,25-34 ,0
+Maine,Male,30-49 ,
+Maine,Male,35-44 ,
+Maine,Male,45-54 ,
+Maine,Male,50-64 ,
+Maine,Male,55-64 ,
+Maine,Male,65-74 ,18
+Maine,Male,75-84 ,20
+Maine,Male,85 _and_over,20
+Maine,Male,All_Ages,68
+Maine,Female,Under_1_year,0
+Maine,Female,0-17 ,0
+Maine,Female,1-4 ,0
+Maine,Female,5-14 ,0
+Maine,Female,15-24 ,0
+Maine,Female,18-29 ,0
+Maine,Female,25-34 ,0
+Maine,Female,30-49 ,
+Maine,Female,35-44 ,
+Maine,Female,45-54 ,
+Maine,Female,50-64 ,
+Maine,Female,55-64 ,
+Maine,Female,65-74 ,
+Maine,Female,75-84 ,24
+Maine,Female,85 _and_over,39
+Maine,Female,All_Ages,77
+Maine,Unknown,Under_1_year,0
+Maine,Unknown,0-17 ,0
+Maine,Unknown,1-4 ,0
+Maine,Unknown,5-14 ,0
+Maine,Unknown,15-24 ,0
+Maine,Unknown,18-29 ,0
+Maine,Unknown,25-34 ,0
+Maine,Unknown,30-49 ,0
+Maine,Unknown,35-44 ,0
+Maine,Unknown,45-54 ,0
+Maine,Unknown,50-64 ,0
+Maine,Unknown,55-64 ,0
+Maine,Unknown,65-74 ,0
+Maine,Unknown,75-84 ,0
+Maine,Unknown,85 _and_over,0
+Maine,Unknown,All_Ages,0
+Maine,All_Sexes,All_Ages,145
+Maryland,Male,Under_1_year,0
+Maryland,Male,0-17 ,0
+Maryland,Male,1-4 ,0
+Maryland,Male,5-14 ,0
+Maryland,Male,15-24 ,
+Maryland,Male,18-29 ,18
+Maryland,Male,25-34 ,31
+Maryland,Male,30-49 ,135
+Maryland,Male,35-44 ,65
+Maryland,Male,45-54 ,132
+Maryland,Male,50-64 ,392
+Maryland,Male,55-64 ,313
+Maryland,Male,65-74 ,441
+Maryland,Male,75-84 ,575
+Maryland,Male,85 _and_over,484
+Maryland,Male,All_Ages,2045
+Maryland,Female,Under_1_year,0
+Maryland,Female,0-17 ,
+Maryland,Female,1-4 ,0
+Maryland,Female,5-14 ,0
+Maryland,Female,15-24 ,
+Maryland,Female,18-29 ,
+Maryland,Female,25-34 ,
+Maryland,Female,30-49 ,50
+Maryland,Female,35-44 ,23
+Maryland,Female,45-54 ,73
+Maryland,Female,50-64 ,228
+Maryland,Female,55-64 ,177
+Maryland,Female,65-74 ,347
+Maryland,Female,75-84 ,524
+Maryland,Female,85 _and_over,813
+Maryland,Female,All_Ages,1969
+Maryland,Unknown,Under_1_year,0
+Maryland,Unknown,0-17 ,0
+Maryland,Unknown,1-4 ,0
+Maryland,Unknown,5-14 ,0
+Maryland,Unknown,15-24 ,0
+Maryland,Unknown,18-29 ,0
+Maryland,Unknown,25-34 ,0
+Maryland,Unknown,30-49 ,0
+Maryland,Unknown,35-44 ,0
+Maryland,Unknown,45-54 ,0
+Maryland,Unknown,50-64 ,0
+Maryland,Unknown,55-64 ,0
+Maryland,Unknown,65-74 ,0
+Maryland,Unknown,75-84 ,0
+Maryland,Unknown,85 _and_over,0
+Maryland,Unknown,All_Ages,0
+Maryland,All_Sexes,All_Ages,4014
+Massachusetts,Male,Under_1_year,0
+Massachusetts,Male,0-17 ,0
+Massachusetts,Male,1-4 ,0
+Massachusetts,Male,5-14 ,0
+Massachusetts,Male,15-24 ,
+Massachusetts,Male,18-29 ,
+Massachusetts,Male,25-34 ,12
+Massachusetts,Male,30-49 ,78
+Massachusetts,Male,35-44 ,33
+Massachusetts,Male,45-54 ,98
+Massachusetts,Male,50-64 ,401
+Massachusetts,Male,55-64 ,338
+Massachusetts,Male,65-74 ,724
+Massachusetts,Male,75-84 ,1133
+Massachusetts,Male,85 _and_over,1370
+Massachusetts,Male,All_Ages,3713
+Massachusetts,Female,Under_1_year,0
+Massachusetts,Female,0-17 ,0
+Massachusetts,Female,1-4 ,0
+Massachusetts,Female,5-14 ,0
+Massachusetts,Female,15-24 ,
+Massachusetts,Female,18-29 ,
+Massachusetts,Female,25-34 ,
+Massachusetts,Female,30-49 ,36
+Massachusetts,Female,35-44 ,14
+Massachusetts,Female,45-54 ,65
+Massachusetts,Female,50-64 ,246
+Massachusetts,Female,55-64 ,199
+Massachusetts,Female,65-74 ,493
+Massachusetts,Female,75-84 ,1048
+Massachusetts,Female,85 _and_over,2420
+Massachusetts,Female,All_Ages,4247
+Massachusetts,Unknown,Under_1_year,0
+Massachusetts,Unknown,0-17 ,0
+Massachusetts,Unknown,1-4 ,0
+Massachusetts,Unknown,5-14 ,0
+Massachusetts,Unknown,15-24 ,0
+Massachusetts,Unknown,18-29 ,0
+Massachusetts,Unknown,25-34 ,0
+Massachusetts,Unknown,30-49 ,0
+Massachusetts,Unknown,35-44 ,0
+Massachusetts,Unknown,45-54 ,0
+Massachusetts,Unknown,50-64 ,0
+Massachusetts,Unknown,55-64 ,0
+Massachusetts,Unknown,65-74 ,0
+Massachusetts,Unknown,75-84 ,0
+Massachusetts,Unknown,85 _and_over,0
+Massachusetts,Unknown,All_Ages,0
+Massachusetts,All_Sexes,All_Ages,7960
+Michigan,Male,Under_1_year,0
+Michigan,Male,0-17 ,0
+Michigan,Male,1-4 ,0
+Michigan,Male,5-14 ,0
+Michigan,Male,15-24 ,
+Michigan,Male,18-29 ,13
+Michigan,Male,25-34 ,28
+Michigan,Male,30-49 ,167
+Michigan,Male,35-44 ,60
+Michigan,Male,45-54 ,219
+Michigan,Male,50-64 ,575
+Michigan,Male,55-64 ,445
+Michigan,Male,65-74 ,836
+Michigan,Male,75-84 ,865
+Michigan,Male,85 _and_over,678
+Michigan,Male,All_Ages,3134
+Michigan,Female,Under_1_year,0
+Michigan,Female,0-17 ,
+Michigan,Female,1-4 ,0
+Michigan,Female,5-14 ,
+Michigan,Female,15-24 ,
+Michigan,Female,18-29 ,11
+Michigan,Female,25-34 ,13
+Michigan,Female,30-49 ,94
+Michigan,Female,35-44 ,35
+Michigan,Female,45-54 ,120
+Michigan,Female,50-64 ,349
+Michigan,Female,55-64 ,282
+Michigan,Female,65-74 ,597
+Michigan,Female,75-84 ,710
+Michigan,Female,85 _and_over,1091
+Michigan,Female,All_Ages,2853
+Michigan,Unknown,Under_1_year,0
+Michigan,Unknown,0-17 ,0
+Michigan,Unknown,1-4 ,0
+Michigan,Unknown,5-14 ,0
+Michigan,Unknown,15-24 ,0
+Michigan,Unknown,18-29 ,0
+Michigan,Unknown,25-34 ,0
+Michigan,Unknown,30-49 ,0
+Michigan,Unknown,35-44 ,0
+Michigan,Unknown,45-54 ,0
+Michigan,Unknown,50-64 ,0
+Michigan,Unknown,55-64 ,0
+Michigan,Unknown,65-74 ,0
+Michigan,Unknown,75-84 ,0
+Michigan,Unknown,85 _and_over,
+Michigan,Unknown,All_Ages,
+Michigan,All_Sexes,All_Ages,5988
+Minnesota,Male,Under_1_year,0
+Minnesota,Male,0-17 ,0
+Minnesota,Male,1-4 ,0
+Minnesota,Male,5-14 ,0
+Minnesota,Male,15-24 ,
+Minnesota,Male,18-29 ,
+Minnesota,Male,25-34 ,
+Minnesota,Male,30-49 ,23
+Minnesota,Male,35-44 ,11
+Minnesota,Male,45-54 ,31
+Minnesota,Male,50-64 ,117
+Minnesota,Male,55-64 ,95
+Minnesota,Male,65-74 ,167
+Minnesota,Male,75-84 ,255
+Minnesota,Male,85 _and_over,300
+Minnesota,Male,All_Ages,865
+Minnesota,Female,Under_1_year,
+Minnesota,Female,0-17 ,
+Minnesota,Female,1-4 ,0
+Minnesota,Female,5-14 ,0
+Minnesota,Female,15-24 ,0
+Minnesota,Female,18-29 ,
+Minnesota,Female,25-34 ,
+Minnesota,Female,30-49 ,13
+Minnesota,Female,35-44 ,
+Minnesota,Female,45-54 ,16
+Minnesota,Female,50-64 ,57
+Minnesota,Female,55-64 ,46
+Minnesota,Female,65-74 ,134
+Minnesota,Female,75-84 ,227
+Minnesota,Female,85 _and_over,475
+Minnesota,Female,All_Ages,909
+Minnesota,Unknown,Under_1_year,0
+Minnesota,Unknown,0-17 ,0
+Minnesota,Unknown,1-4 ,0
+Minnesota,Unknown,5-14 ,0
+Minnesota,Unknown,15-24 ,0
+Minnesota,Unknown,18-29 ,0
+Minnesota,Unknown,25-34 ,0
+Minnesota,Unknown,30-49 ,0
+Minnesota,Unknown,35-44 ,0
+Minnesota,Unknown,45-54 ,0
+Minnesota,Unknown,50-64 ,0
+Minnesota,Unknown,55-64 ,0
+Minnesota,Unknown,65-74 ,0
+Minnesota,Unknown,75-84 ,0
+Minnesota,Unknown,85 _and_over,0
+Minnesota,Unknown,All_Ages,0
+Minnesota,All_Sexes,All_Ages,1774
+Mississippi,Male,Under_1_year,0
+Mississippi,Male,0-17 ,0
+Mississippi,Male,1-4 ,0
+Mississippi,Male,5-14 ,0
+Mississippi,Male,15-24 ,
+Mississippi,Male,18-29 ,
+Mississippi,Male,25-34 ,12
+Mississippi,Male,30-49 ,72
+Mississippi,Male,35-44 ,31
+Mississippi,Male,45-54 ,69
+Mississippi,Male,50-64 ,201
+Mississippi,Male,55-64 ,164
+Mississippi,Male,65-74 ,302
+Mississippi,Male,75-84 ,305
+Mississippi,Male,85 _and_over,194
+Mississippi,Male,All_Ages,1082
+Mississippi,Female,Under_1_year,0
+Mississippi,Female,0-17 ,0
+Mississippi,Female,1-4 ,0
+Mississippi,Female,5-14 ,0
+Mississippi,Female,15-24 ,
+Mississippi,Female,18-29 ,
+Mississippi,Female,25-34 ,10
+Mississippi,Female,30-49 ,65
+Mississippi,Female,35-44 ,26
+Mississippi,Female,45-54 ,77
+Mississippi,Female,50-64 ,200
+Mississippi,Female,55-64 ,157
+Mississippi,Female,65-74 ,220
+Mississippi,Female,75-84 ,264
+Mississippi,Female,85 _and_over,332
+Mississippi,Female,All_Ages,1090
+Mississippi,Unknown,Under_1_year,0
+Mississippi,Unknown,0-17 ,0
+Mississippi,Unknown,1-4 ,0
+Mississippi,Unknown,5-14 ,0
+Mississippi,Unknown,15-24 ,0
+Mississippi,Unknown,18-29 ,0
+Mississippi,Unknown,25-34 ,0
+Mississippi,Unknown,30-49 ,0
+Mississippi,Unknown,35-44 ,0
+Mississippi,Unknown,45-54 ,0
+Mississippi,Unknown,50-64 ,0
+Mississippi,Unknown,55-64 ,0
+Mississippi,Unknown,65-74 ,0
+Mississippi,Unknown,75-84 ,
+Mississippi,Unknown,85 _and_over,0
+Mississippi,Unknown,All_Ages,
+Mississippi,All_Sexes,All_Ages,2173
+Missouri,Male,Under_1_year,0
+Missouri,Male,0-17 ,0
+Missouri,Male,1-4 ,0
+Missouri,Male,5-14 ,0
+Missouri,Male,15-24 ,
+Missouri,Male,18-29 ,
+Missouri,Male,25-34 ,
+Missouri,Male,30-49 ,18
+Missouri,Male,35-44 ,
+Missouri,Male,45-54 ,34
+Missouri,Male,50-64 ,120
+Missouri,Male,55-64 ,96
+Missouri,Male,65-74 ,184
+Missouri,Male,75-84 ,213
+Missouri,Male,85 _and_over,191
+Missouri,Male,All_Ages,729
+Missouri,Female,Under_1_year,0
+Missouri,Female,0-17 ,0
+Missouri,Female,1-4 ,0
+Missouri,Female,5-14 ,0
+Missouri,Female,15-24 ,
+Missouri,Female,18-29 ,
+Missouri,Female,25-34 ,
+Missouri,Female,30-49 ,15
+Missouri,Female,35-44 ,
+Missouri,Female,45-54 ,20
+Missouri,Female,50-64 ,70
+Missouri,Female,55-64 ,56
+Missouri,Female,65-74 ,124
+Missouri,Female,75-84 ,179
+Missouri,Female,85 _and_over,352
+Missouri,Female,All_Ages,742
+Missouri,Unknown,Under_1_year,0
+Missouri,Unknown,0-17 ,0
+Missouri,Unknown,1-4 ,0
+Missouri,Unknown,5-14 ,0
+Missouri,Unknown,15-24 ,0
+Missouri,Unknown,18-29 ,0
+Missouri,Unknown,25-34 ,0
+Missouri,Unknown,30-49 ,0
+Missouri,Unknown,35-44 ,0
+Missouri,Unknown,45-54 ,0
+Missouri,Unknown,50-64 ,0
+Missouri,Unknown,55-64 ,0
+Missouri,Unknown,65-74 ,0
+Missouri,Unknown,75-84 ,0
+Missouri,Unknown,85 _and_over,0
+Missouri,Unknown,All_Ages,0
+Missouri,All_Sexes,All_Ages,1471
+Montana,Male,Under_1_year,0
+Montana,Male,0-17 ,0
+Montana,Male,1-4 ,0
+Montana,Male,5-14 ,0
+Montana,Male,15-24 ,0
+Montana,Male,18-29 ,0
+Montana,Male,25-34 ,0
+Montana,Male,30-49 ,
+Montana,Male,35-44 ,
+Montana,Male,45-54 ,
+Montana,Male,50-64 ,
+Montana,Male,55-64 ,
+Montana,Male,65-74 ,11
+Montana,Male,75-84 ,15
+Montana,Male,85 _and_over,11
+Montana,Male,All_Ages,44
+Montana,Female,Under_1_year,0
+Montana,Female,0-17 ,0
+Montana,Female,1-4 ,0
+Montana,Female,5-14 ,0
+Montana,Female,15-24 ,0
+Montana,Female,18-29 ,0
+Montana,Female,25-34 ,
+Montana,Female,30-49 ,
+Montana,Female,35-44 ,0
+Montana,Female,45-54 ,
+Montana,Female,50-64 ,
+Montana,Female,55-64 ,
+Montana,Female,65-74 ,
+Montana,Female,75-84 ,14
+Montana,Female,85 _and_over,17
+Montana,Female,All_Ages,40
+Montana,Unknown,Under_1_year,0
+Montana,Unknown,0-17 ,0
+Montana,Unknown,1-4 ,0
+Montana,Unknown,5-14 ,0
+Montana,Unknown,15-24 ,0
+Montana,Unknown,18-29 ,0
+Montana,Unknown,25-34 ,0
+Montana,Unknown,30-49 ,0
+Montana,Unknown,35-44 ,0
+Montana,Unknown,45-54 ,0
+Montana,Unknown,50-64 ,0
+Montana,Unknown,55-64 ,0
+Montana,Unknown,65-74 ,0
+Montana,Unknown,75-84 ,0
+Montana,Unknown,85 _and_over,0
+Montana,Unknown,All_Ages,0
+Montana,All_Sexes,All_Ages,84
+Nebraska,Male,Under_1_year,0
+Nebraska,Male,0-17 ,0
+Nebraska,Male,1-4 ,0
+Nebraska,Male,5-14 ,0
+Nebraska,Male,15-24 ,0
+Nebraska,Male,18-29 ,
+Nebraska,Male,25-34 ,
+Nebraska,Male,30-49 ,13
+Nebraska,Male,35-44 ,
+Nebraska,Male,45-54 ,15
+Nebraska,Male,50-64 ,39
+Nebraska,Male,55-64 ,29
+Nebraska,Male,65-74 ,55
+Nebraska,Male,75-84 ,53
+Nebraska,Male,85 _and_over,40
+Nebraska,Male,All_Ages,204
+Nebraska,Female,Under_1_year,0
+Nebraska,Female,0-17 ,0
+Nebraska,Female,1-4 ,0
+Nebraska,Female,5-14 ,0
+Nebraska,Female,15-24 ,0
+Nebraska,Female,18-29 ,0
+Nebraska,Female,25-34 ,
+Nebraska,Female,30-49 ,
+Nebraska,Female,35-44 ,
+Nebraska,Female,45-54 ,
+Nebraska,Female,50-64 ,28
+Nebraska,Female,55-64 ,22
+Nebraska,Female,65-74 ,26
+Nebraska,Female,75-84 ,44
+Nebraska,Female,85 _and_over,67
+Nebraska,Female,All_Ages,170
+Nebraska,Unknown,Under_1_year,0
+Nebraska,Unknown,0-17 ,0
+Nebraska,Unknown,1-4 ,0
+Nebraska,Unknown,5-14 ,0
+Nebraska,Unknown,15-24 ,0
+Nebraska,Unknown,18-29 ,0
+Nebraska,Unknown,25-34 ,0
+Nebraska,Unknown,30-49 ,0
+Nebraska,Unknown,35-44 ,0
+Nebraska,Unknown,45-54 ,0
+Nebraska,Unknown,50-64 ,0
+Nebraska,Unknown,55-64 ,0
+Nebraska,Unknown,65-74 ,0
+Nebraska,Unknown,75-84 ,0
+Nebraska,Unknown,85 _and_over,0
+Nebraska,Unknown,All_Ages,0
+Nebraska,All_Sexes,All_Ages,374
+Nevada,Male,Under_1_year,0
+Nevada,Male,0-17 ,
+Nevada,Male,1-4 ,0
+Nevada,Male,5-14 ,
+Nevada,Male,15-24 ,
+Nevada,Male,18-29 ,
+Nevada,Male,25-34 ,
+Nevada,Male,30-49 ,49
+Nevada,Male,35-44 ,22
+Nevada,Male,45-54 ,71
+Nevada,Male,50-64 ,140
+Nevada,Male,55-64 ,95
+Nevada,Male,65-74 ,182
+Nevada,Male,75-84 ,204
+Nevada,Male,85 _and_over,110
+Nevada,Male,All_Ages,690
+Nevada,Female,Under_1_year,0
+Nevada,Female,0-17 ,0
+Nevada,Female,1-4 ,0
+Nevada,Female,5-14 ,0
+Nevada,Female,15-24 ,0
+Nevada,Female,18-29 ,
+Nevada,Female,25-34 ,
+Nevada,Female,30-49 ,18
+Nevada,Female,35-44 ,
+Nevada,Female,45-54 ,24
+Nevada,Female,50-64 ,70
+Nevada,Female,55-64 ,55
+Nevada,Female,65-74 ,111
+Nevada,Female,75-84 ,134
+Nevada,Female,85 _and_over,100
+Nevada,Female,All_Ages,435
+Nevada,Unknown,Under_1_year,0
+Nevada,Unknown,0-17 ,0
+Nevada,Unknown,1-4 ,0
+Nevada,Unknown,5-14 ,0
+Nevada,Unknown,15-24 ,0
+Nevada,Unknown,18-29 ,0
+Nevada,Unknown,25-34 ,0
+Nevada,Unknown,30-49 ,0
+Nevada,Unknown,35-44 ,0
+Nevada,Unknown,45-54 ,0
+Nevada,Unknown,50-64 ,0
+Nevada,Unknown,55-64 ,0
+Nevada,Unknown,65-74 ,0
+Nevada,Unknown,75-84 ,0
+Nevada,Unknown,85 _and_over,0
+Nevada,Unknown,All_Ages,0
+Nevada,All_Sexes,All_Ages,1125
+New_Hampshire,Male,Under_1_year,0
+New_Hampshire,Male,0-17 ,0
+New_Hampshire,Male,1-4 ,0
+New_Hampshire,Male,5-14 ,0
+New_Hampshire,Male,15-24 ,
+New_Hampshire,Male,18-29 ,
+New_Hampshire,Male,25-34 ,0
+New_Hampshire,Male,30-49 ,
+New_Hampshire,Male,35-44 ,
+New_Hampshire,Male,45-54 ,
+New_Hampshire,Male,50-64 ,19
+New_Hampshire,Male,55-64 ,14
+New_Hampshire,Male,65-74 ,34
+New_Hampshire,Male,75-84 ,63
+New_Hampshire,Male,85 _and_over,81
+New_Hampshire,Male,All_Ages,203
+New_Hampshire,Female,Under_1_year,0
+New_Hampshire,Female,0-17 ,0
+New_Hampshire,Female,1-4 ,0
+New_Hampshire,Female,5-14 ,0
+New_Hampshire,Female,15-24 ,0
+New_Hampshire,Female,18-29 ,0
+New_Hampshire,Female,25-34 ,0
+New_Hampshire,Female,30-49 ,0
+New_Hampshire,Female,35-44 ,0
+New_Hampshire,Female,45-54 ,
+New_Hampshire,Female,50-64 ,
+New_Hampshire,Female,55-64 ,
+New_Hampshire,Female,65-74 ,26
+New_Hampshire,Female,75-84 ,54
+New_Hampshire,Female,85 _and_over,126
+New_Hampshire,Female,All_Ages,211
+New_Hampshire,Unknown,Under_1_year,0
+New_Hampshire,Unknown,0-17 ,0
+New_Hampshire,Unknown,1-4 ,0
+New_Hampshire,Unknown,5-14 ,0
+New_Hampshire,Unknown,15-24 ,0
+New_Hampshire,Unknown,18-29 ,0
+New_Hampshire,Unknown,25-34 ,0
+New_Hampshire,Unknown,30-49 ,0
+New_Hampshire,Unknown,35-44 ,0
+New_Hampshire,Unknown,45-54 ,0
+New_Hampshire,Unknown,50-64 ,0
+New_Hampshire,Unknown,55-64 ,0
+New_Hampshire,Unknown,65-74 ,0
+New_Hampshire,Unknown,75-84 ,0
+New_Hampshire,Unknown,85 _and_over,0
+New_Hampshire,Unknown,All_Ages,0
+New_Hampshire,All_Sexes,All_Ages,414
+New_Jersey,Male,Under_1_year,0
+New_Jersey,Male,0-17 ,0
+New_Jersey,Male,1-4 ,0
+New_Jersey,Male,5-14 ,0
+New_Jersey,Male,15-24 ,11
+New_Jersey,Male,18-29 ,37
+New_Jersey,Male,25-34 ,74
+New_Jersey,Male,30-49 ,467
+New_Jersey,Male,35-44 ,199
+New_Jersey,Male,45-54 ,563
+New_Jersey,Male,50-64 ,1585
+New_Jersey,Male,55-64 ,1242
+New_Jersey,Male,65-74 ,1725
+New_Jersey,Male,75-84 ,1937
+New_Jersey,Male,85 _and_over,1778
+New_Jersey,Male,All_Ages,7529
+New_Jersey,Female,Under_1_year,0
+New_Jersey,Female,0-17 ,
+New_Jersey,Female,1-4 ,
+New_Jersey,Female,5-14 ,0
+New_Jersey,Female,15-24 ,
+New_Jersey,Female,18-29 ,17
+New_Jersey,Female,25-34 ,34
+New_Jersey,Female,30-49 ,148
+New_Jersey,Female,35-44 ,67
+New_Jersey,Female,45-54 ,185
+New_Jersey,Female,50-64 ,694
+New_Jersey,Female,55-64 ,570
+New_Jersey,Female,65-74 ,1014
+New_Jersey,Female,75-84 ,1737
+New_Jersey,Female,85 _and_over,2997
+New_Jersey,Female,All_Ages,6608
+New_Jersey,Unknown,Under_1_year,0
+New_Jersey,Unknown,0-17 ,0
+New_Jersey,Unknown,1-4 ,0
+New_Jersey,Unknown,5-14 ,0
+New_Jersey,Unknown,15-24 ,0
+New_Jersey,Unknown,18-29 ,0
+New_Jersey,Unknown,25-34 ,0
+New_Jersey,Unknown,30-49 ,0
+New_Jersey,Unknown,35-44 ,0
+New_Jersey,Unknown,45-54 ,0
+New_Jersey,Unknown,50-64 ,0
+New_Jersey,Unknown,55-64 ,0
+New_Jersey,Unknown,65-74 ,
+New_Jersey,Unknown,75-84 ,0
+New_Jersey,Unknown,85 _and_over,0
+New_Jersey,Unknown,All_Ages,
+New_Jersey,All_Sexes,All_Ages,14138
+New_Mexico,Male,Under_1_year,0
+New_Mexico,Male,0-17 ,0
+New_Mexico,Male,1-4 ,0
+New_Mexico,Male,5-14 ,0
+New_Mexico,Male,15-24 ,
+New_Mexico,Male,18-29 ,
+New_Mexico,Male,25-34 ,18
+New_Mexico,Male,30-49 ,48
+New_Mexico,Male,35-44 ,21
+New_Mexico,Male,45-54 ,36
+New_Mexico,Male,50-64 ,82
+New_Mexico,Male,55-64 ,59
+New_Mexico,Male,65-74 ,86
+New_Mexico,Male,75-84 ,70
+New_Mexico,Male,85 _and_over,82
+New_Mexico,Male,All_Ages,373
+New_Mexico,Female,Under_1_year,0
+New_Mexico,Female,0-17 ,0
+New_Mexico,Female,1-4 ,0
+New_Mexico,Female,5-14 ,0
+New_Mexico,Female,15-24 ,0
+New_Mexico,Female,18-29 ,
+New_Mexico,Female,25-34 ,
+New_Mexico,Female,30-49 ,21
+New_Mexico,Female,35-44 ,13
+New_Mexico,Female,45-54 ,21
+New_Mexico,Female,50-64 ,61
+New_Mexico,Female,55-64 ,43
+New_Mexico,Female,65-74 ,55
+New_Mexico,Female,75-84 ,91
+New_Mexico,Female,85 _and_over,118
+New_Mexico,Female,All_Ages,347
+New_Mexico,Unknown,Under_1_year,0
+New_Mexico,Unknown,0-17 ,0
+New_Mexico,Unknown,1-4 ,0
+New_Mexico,Unknown,5-14 ,0
+New_Mexico,Unknown,15-24 ,0
+New_Mexico,Unknown,18-29 ,0
+New_Mexico,Unknown,25-34 ,0
+New_Mexico,Unknown,30-49 ,0
+New_Mexico,Unknown,35-44 ,0
+New_Mexico,Unknown,45-54 ,0
+New_Mexico,Unknown,50-64 ,0
+New_Mexico,Unknown,55-64 ,0
+New_Mexico,Unknown,65-74 ,0
+New_Mexico,Unknown,75-84 ,0
+New_Mexico,Unknown,85 _and_over,0
+New_Mexico,Unknown,All_Ages,0
+New_Mexico,All_Sexes,All_Ages,720
+New_York,Male,Under_1_year,0
+New_York,Male,0-17 ,
+New_York,Male,1-4 ,0
+New_York,Male,5-14 ,
+New_York,Male,15-24 ,11
+New_York,Male,18-29 ,28
+New_York,Male,25-34 ,48
+New_York,Male,30-49 ,302
+New_York,Male,35-44 ,128
+New_York,Male,45-54 ,374
+New_York,Male,50-64 ,1146
+New_York,Male,55-64 ,915
+New_York,Male,65-74 ,1466
+New_York,Male,75-84 ,1608
+New_York,Male,85 _and_over,1529
+New_York,Male,All_Ages,6081
+New_York,Female,Under_1_year,0
+New_York,Female,0-17 ,
+New_York,Female,1-4 ,0
+New_York,Female,5-14 ,0
+New_York,Female,15-24 ,
+New_York,Female,18-29 ,
+New_York,Female,25-34 ,19
+New_York,Female,30-49 ,114
+New_York,Female,35-44 ,53
+New_York,Female,45-54 ,132
+New_York,Female,50-64 ,522
+New_York,Female,55-64 ,440
+New_York,Female,65-74 ,827
+New_York,Female,75-84 ,1339
+New_York,Female,85 _and_over,2618
+New_York,Female,All_Ages,5430
+New_York,Unknown,Under_1_year,0
+New_York,Unknown,0-17 ,0
+New_York,Unknown,1-4 ,0
+New_York,Unknown,5-14 ,0
+New_York,Unknown,15-24 ,0
+New_York,Unknown,18-29 ,0
+New_York,Unknown,25-34 ,0
+New_York,Unknown,30-49 ,0
+New_York,Unknown,35-44 ,0
+New_York,Unknown,45-54 ,0
+New_York,Unknown,50-64 ,0
+New_York,Unknown,55-64 ,0
+New_York,Unknown,65-74 ,0
+New_York,Unknown,75-84 ,0
+New_York,Unknown,85 _and_over,0
+New_York,Unknown,All_Ages,0
+New_York,All_Sexes,All_Ages,11511
+New_York_City,Male,Under_1_year,
+New_York_City,Male,0-17 ,
+New_York_City,Male,1-4 ,
+New_York_City,Male,5-14 ,
+New_York_City,Male,15-24 ,23
+New_York_City,Male,18-29 ,62
+New_York_City,Male,25-34 ,112
+New_York_City,Male,30-49 ,853
+New_York_City,Male,35-44 ,399
+New_York_City,Male,45-54 ,990
+New_York_City,Male,50-64 ,2828
+New_York_City,Male,55-64 ,2219
+New_York_City,Male,65-74 ,3261
+New_York_City,Male,75-84 ,3108
+New_York_City,Male,85 _and_over,2105
+New_York_City,Male,All_Ages,12224
+New_York_City,Female,Under_1_year,
+New_York_City,Female,0-17 ,
+New_York_City,Female,1-4 ,
+New_York_City,Female,5-14 ,
+New_York_City,Female,15-24 ,10
+New_York_City,Female,18-29 ,26
+New_York_City,Female,25-34 ,55
+New_York_City,Female,30-49 ,303
+New_York_City,Female,35-44 ,116
+New_York_City,Female,45-54 ,393
+New_York_City,Female,50-64 ,1299
+New_York_City,Female,55-64 ,1056
+New_York_City,Female,65-74 ,1759
+New_York_City,Female,75-84 ,2287
+New_York_City,Female,85 _and_over,2733
+New_York_City,Female,All_Ages,8412
+New_York_City,Unknown,Under_1_year,0
+New_York_City,Unknown,0-17 ,0
+New_York_City,Unknown,1-4 ,0
+New_York_City,Unknown,5-14 ,0
+New_York_City,Unknown,15-24 ,0
+New_York_City,Unknown,18-29 ,0
+New_York_City,Unknown,25-34 ,0
+New_York_City,Unknown,30-49 ,0
+New_York_City,Unknown,35-44 ,0
+New_York_City,Unknown,45-54 ,0
+New_York_City,Unknown,50-64 ,0
+New_York_City,Unknown,55-64 ,0
+New_York_City,Unknown,65-74 ,0
+New_York_City,Unknown,75-84 ,0
+New_York_City,Unknown,85 _and_over,0
+New_York_City,Unknown,All_Ages,0
+New_York_City,All_Sexes,All_Ages,20636
+North_Carolina,Male,Under_1_year,0
+North_Carolina,Male,0-17 ,0
+North_Carolina,Male,1-4 ,0
+North_Carolina,Male,5-14 ,0
+North_Carolina,Male,15-24 ,
+North_Carolina,Male,18-29 ,
+North_Carolina,Male,25-34 ,
+North_Carolina,Male,30-49 ,66
+North_Carolina,Male,35-44 ,30
+North_Carolina,Male,45-54 ,78
+North_Carolina,Male,50-64 ,195
+North_Carolina,Male,55-64 ,148
+North_Carolina,Male,65-74 ,226
+North_Carolina,Male,75-84 ,279
+North_Carolina,Male,85 _and_over,227
+North_Carolina,Male,All_Ages,999
+North_Carolina,Female,Under_1_year,0
+North_Carolina,Female,0-17 ,0
+North_Carolina,Female,1-4 ,0
+North_Carolina,Female,5-14 ,0
+North_Carolina,Female,15-24 ,0
+North_Carolina,Female,18-29 ,
+North_Carolina,Female,25-34 ,
+North_Carolina,Female,30-49 ,28
+North_Carolina,Female,35-44 ,11
+North_Carolina,Female,45-54 ,41
+North_Carolina,Female,50-64 ,100
+North_Carolina,Female,55-64 ,72
+North_Carolina,Female,65-74 ,172
+North_Carolina,Female,75-84 ,238
+North_Carolina,Female,85 _and_over,331
+North_Carolina,Female,All_Ages,871
+North_Carolina,Unknown,Under_1_year,0
+North_Carolina,Unknown,0-17 ,0
+North_Carolina,Unknown,1-4 ,0
+North_Carolina,Unknown,5-14 ,0
+North_Carolina,Unknown,15-24 ,0
+North_Carolina,Unknown,18-29 ,0
+North_Carolina,Unknown,25-34 ,0
+North_Carolina,Unknown,30-49 ,0
+North_Carolina,Unknown,35-44 ,0
+North_Carolina,Unknown,45-54 ,0
+North_Carolina,Unknown,50-64 ,0
+North_Carolina,Unknown,55-64 ,0
+North_Carolina,Unknown,65-74 ,0
+North_Carolina,Unknown,75-84 ,0
+North_Carolina,Unknown,85 _and_over,0
+North_Carolina,Unknown,All_Ages,0
+North_Carolina,All_Sexes,All_Ages,1870
+North_Dakota,Male,Under_1_year,0
+North_Dakota,Male,0-17 ,0
+North_Dakota,Male,1-4 ,0
+North_Dakota,Male,5-14 ,0
+North_Dakota,Male,15-24 ,0
+North_Dakota,Male,18-29 ,0
+North_Dakota,Male,25-34 ,0
+North_Dakota,Male,30-49 ,
+North_Dakota,Male,35-44 ,
+North_Dakota,Male,45-54 ,
+North_Dakota,Male,50-64 ,16
+North_Dakota,Male,55-64 ,14
+North_Dakota,Male,65-74 ,14
+North_Dakota,Male,75-84 ,17
+North_Dakota,Male,85 _and_over,26
+North_Dakota,Male,All_Ages,80
+North_Dakota,Female,Under_1_year,0
+North_Dakota,Female,0-17 ,0
+North_Dakota,Female,1-4 ,0
+North_Dakota,Female,5-14 ,0
+North_Dakota,Female,15-24 ,0
+North_Dakota,Female,18-29 ,0
+North_Dakota,Female,25-34 ,0
+North_Dakota,Female,30-49 ,0
+North_Dakota,Female,35-44 ,0
+North_Dakota,Female,45-54 ,
+North_Dakota,Female,50-64 ,
+North_Dakota,Female,55-64 ,
+North_Dakota,Female,65-74 ,
+North_Dakota,Female,75-84 ,22
+North_Dakota,Female,85 _and_over,30
+North_Dakota,Female,All_Ages,64
+North_Dakota,Unknown,Under_1_year,0
+North_Dakota,Unknown,0-17 ,0
+North_Dakota,Unknown,1-4 ,0
+North_Dakota,Unknown,5-14 ,0
+North_Dakota,Unknown,15-24 ,0
+North_Dakota,Unknown,18-29 ,0
+North_Dakota,Unknown,25-34 ,0
+North_Dakota,Unknown,30-49 ,0
+North_Dakota,Unknown,35-44 ,0
+North_Dakota,Unknown,45-54 ,0
+North_Dakota,Unknown,50-64 ,0
+North_Dakota,Unknown,55-64 ,0
+North_Dakota,Unknown,65-74 ,0
+North_Dakota,Unknown,75-84 ,0
+North_Dakota,Unknown,85 _and_over,0
+North_Dakota,Unknown,All_Ages,0
+North_Dakota,All_Sexes,All_Ages,144
+Ohio,Male,Under_1_year,0
+Ohio,Male,0-17 ,0
+Ohio,Male,1-4 ,0
+Ohio,Male,5-14 ,0
+Ohio,Male,15-24 ,
+Ohio,Male,18-29 ,
+Ohio,Male,25-34 ,
+Ohio,Male,30-49 ,55
+Ohio,Male,35-44 ,29
+Ohio,Male,45-54 ,74
+Ohio,Male,50-64 ,289
+Ohio,Male,55-64 ,237
+Ohio,Male,65-74 ,451
+Ohio,Male,75-84 ,515
+Ohio,Male,85 _and_over,503
+Ohio,Male,All_Ages,1816
+Ohio,Female,Under_1_year,0
+Ohio,Female,0-17 ,
+Ohio,Female,1-4 ,0
+Ohio,Female,5-14 ,
+Ohio,Female,15-24 ,
+Ohio,Female,18-29 ,
+Ohio,Female,25-34 ,
+Ohio,Female,30-49 ,25
+Ohio,Female,35-44 ,11
+Ohio,Female,45-54 ,32
+Ohio,Female,50-64 ,144
+Ohio,Female,55-64 ,122
+Ohio,Female,65-74 ,267
+Ohio,Female,75-84 ,507
+Ohio,Female,85 _and_over,786
+Ohio,Female,All_Ages,1737
+Ohio,Unknown,Under_1_year,0
+Ohio,Unknown,0-17 ,0
+Ohio,Unknown,1-4 ,0
+Ohio,Unknown,5-14 ,0
+Ohio,Unknown,15-24 ,0
+Ohio,Unknown,18-29 ,0
+Ohio,Unknown,25-34 ,0
+Ohio,Unknown,30-49 ,0
+Ohio,Unknown,35-44 ,0
+Ohio,Unknown,45-54 ,0
+Ohio,Unknown,50-64 ,0
+Ohio,Unknown,55-64 ,0
+Ohio,Unknown,65-74 ,0
+Ohio,Unknown,75-84 ,0
+Ohio,Unknown,85 _and_over,0
+Ohio,Unknown,All_Ages,0
+Ohio,All_Sexes,All_Ages,3553
+Oklahoma,Male,Under_1_year,
+Oklahoma,Male,0-17 ,
+Oklahoma,Male,1-4 ,0
+Oklahoma,Male,5-14 ,0
+Oklahoma,Male,15-24 ,
+Oklahoma,Male,18-29 ,
+Oklahoma,Male,25-34 ,
+Oklahoma,Male,30-49 ,14
+Oklahoma,Male,35-44 ,
+Oklahoma,Male,45-54 ,16
+Oklahoma,Male,50-64 ,77
+Oklahoma,Male,55-64 ,68
+Oklahoma,Male,65-74 ,111
+Oklahoma,Male,75-84 ,115
+Oklahoma,Male,85 _and_over,107
+Oklahoma,Male,All_Ages,427
+Oklahoma,Female,Under_1_year,0
+Oklahoma,Female,0-17 ,
+Oklahoma,Female,1-4 ,0
+Oklahoma,Female,5-14 ,
+Oklahoma,Female,15-24 ,0
+Oklahoma,Female,18-29 ,0
+Oklahoma,Female,25-34 ,
+Oklahoma,Female,30-49 ,11
+Oklahoma,Female,35-44 ,
+Oklahoma,Female,45-54 ,16
+Oklahoma,Female,50-64 ,53
+Oklahoma,Female,55-64 ,41
+Oklahoma,Female,65-74 ,93
+Oklahoma,Female,75-84 ,84
+Oklahoma,Female,85 _and_over,111
+Oklahoma,Female,All_Ages,353
+Oklahoma,Unknown,Under_1_year,0
+Oklahoma,Unknown,0-17 ,0
+Oklahoma,Unknown,1-4 ,0
+Oklahoma,Unknown,5-14 ,0
+Oklahoma,Unknown,15-24 ,0
+Oklahoma,Unknown,18-29 ,0
+Oklahoma,Unknown,25-34 ,0
+Oklahoma,Unknown,30-49 ,0
+Oklahoma,Unknown,35-44 ,0
+Oklahoma,Unknown,45-54 ,0
+Oklahoma,Unknown,50-64 ,0
+Oklahoma,Unknown,55-64 ,0
+Oklahoma,Unknown,65-74 ,0
+Oklahoma,Unknown,75-84 ,0
+Oklahoma,Unknown,85 _and_over,0
+Oklahoma,Unknown,All_Ages,0
+Oklahoma,All_Sexes,All_Ages,780
+Oregon,Male,Under_1_year,0
+Oregon,Male,0-17 ,0
+Oregon,Male,1-4 ,0
+Oregon,Male,5-14 ,0
+Oregon,Male,15-24 ,0
+Oregon,Male,18-29 ,
+Oregon,Male,25-34 ,
+Oregon,Male,30-49 ,
+Oregon,Male,35-44 ,
+Oregon,Male,45-54 ,14
+Oregon,Male,50-64 ,43
+Oregon,Male,55-64 ,32
+Oregon,Male,65-74 ,57
+Oregon,Male,75-84 ,62
+Oregon,Male,85 _and_over,61
+Oregon,Male,All_Ages,231
+Oregon,Female,Under_1_year,0
+Oregon,Female,0-17 ,0
+Oregon,Female,1-4 ,0
+Oregon,Female,5-14 ,0
+Oregon,Female,15-24 ,0
+Oregon,Female,18-29 ,0
+Oregon,Female,25-34 ,
+Oregon,Female,30-49 ,
+Oregon,Female,35-44 ,
+Oregon,Female,45-54 ,
+Oregon,Female,50-64 ,18
+Oregon,Female,55-64 ,16
+Oregon,Female,65-74 ,30
+Oregon,Female,75-84 ,43
+Oregon,Female,85 _and_over,81
+Oregon,Female,All_Ages,177
+Oregon,Unknown,Under_1_year,0
+Oregon,Unknown,0-17 ,0
+Oregon,Unknown,1-4 ,0
+Oregon,Unknown,5-14 ,0
+Oregon,Unknown,15-24 ,0
+Oregon,Unknown,18-29 ,0
+Oregon,Unknown,25-34 ,0
+Oregon,Unknown,30-49 ,0
+Oregon,Unknown,35-44 ,0
+Oregon,Unknown,45-54 ,0
+Oregon,Unknown,50-64 ,0
+Oregon,Unknown,55-64 ,0
+Oregon,Unknown,65-74 ,0
+Oregon,Unknown,75-84 ,0
+Oregon,Unknown,85 _and_over,0
+Oregon,Unknown,All_Ages,0
+Oregon,All_Sexes,All_Ages,408
+Pennsylvania,Male,Under_1_year,0
+Pennsylvania,Male,0-17 ,
+Pennsylvania,Male,1-4 ,0
+Pennsylvania,Male,5-14 ,0
+Pennsylvania,Male,15-24 ,
+Pennsylvania,Male,18-29 ,13
+Pennsylvania,Male,25-34 ,20
+Pennsylvania,Male,30-49 ,115
+Pennsylvania,Male,35-44 ,42
+Pennsylvania,Male,45-54 ,171
+Pennsylvania,Male,50-64 ,560
+Pennsylvania,Male,55-64 ,449
+Pennsylvania,Male,65-74 ,834
+Pennsylvania,Male,75-84 ,1075
+Pennsylvania,Male,85 _and_over,1223
+Pennsylvania,Male,All_Ages,3821
+Pennsylvania,Female,Under_1_year,0
+Pennsylvania,Female,0-17 ,0
+Pennsylvania,Female,1-4 ,0
+Pennsylvania,Female,5-14 ,0
+Pennsylvania,Female,15-24 ,
+Pennsylvania,Female,18-29 ,
+Pennsylvania,Female,25-34 ,
+Pennsylvania,Female,30-49 ,51
+Pennsylvania,Female,35-44 ,19
+Pennsylvania,Female,45-54 ,77
+Pennsylvania,Female,50-64 ,308
+Pennsylvania,Female,55-64 ,261
+Pennsylvania,Female,65-74 ,581
+Pennsylvania,Female,75-84 ,947
+Pennsylvania,Female,85 _and_over,2140
+Pennsylvania,Female,All_Ages,4031
+Pennsylvania,Unknown,Under_1_year,0
+Pennsylvania,Unknown,0-17 ,0
+Pennsylvania,Unknown,1-4 ,0
+Pennsylvania,Unknown,5-14 ,0
+Pennsylvania,Unknown,15-24 ,0
+Pennsylvania,Unknown,18-29 ,0
+Pennsylvania,Unknown,25-34 ,0
+Pennsylvania,Unknown,30-49 ,0
+Pennsylvania,Unknown,35-44 ,0
+Pennsylvania,Unknown,45-54 ,0
+Pennsylvania,Unknown,50-64 ,0
+Pennsylvania,Unknown,55-64 ,0
+Pennsylvania,Unknown,65-74 ,0
+Pennsylvania,Unknown,75-84 ,0
+Pennsylvania,Unknown,85 _and_over,0
+Pennsylvania,Unknown,All_Ages,0
+Pennsylvania,All_Sexes,All_Ages,7852
+Rhode_Island,Male,Under_1_year,0
+Rhode_Island,Male,0-17 ,0
+Rhode_Island,Male,1-4 ,0
+Rhode_Island,Male,5-14 ,0
+Rhode_Island,Male,15-24 ,0
+Rhode_Island,Male,18-29 ,0
+Rhode_Island,Male,25-34 ,
+Rhode_Island,Male,30-49 ,14
+Rhode_Island,Male,35-44 ,
+Rhode_Island,Male,45-54 ,10
+Rhode_Island,Male,50-64 ,57
+Rhode_Island,Male,55-64 ,52
+Rhode_Island,Male,65-74 ,105
+Rhode_Island,Male,75-84 ,136
+Rhode_Island,Male,85 _and_over,150
+Rhode_Island,Male,All_Ages,462
+Rhode_Island,Female,Under_1_year,0
+Rhode_Island,Female,0-17 ,
+Rhode_Island,Female,1-4 ,0
+Rhode_Island,Female,5-14 ,
+Rhode_Island,Female,15-24 ,0
+Rhode_Island,Female,18-29 ,
+Rhode_Island,Female,25-34 ,
+Rhode_Island,Female,30-49 ,
+Rhode_Island,Female,35-44 ,
+Rhode_Island,Female,45-54 ,
+Rhode_Island,Female,50-64 ,24
+Rhode_Island,Female,55-64 ,21
+Rhode_Island,Female,65-74 ,79
+Rhode_Island,Female,75-84 ,125
+Rhode_Island,Female,85 _and_over,311
+Rhode_Island,Female,All_Ages,546
+Rhode_Island,Unknown,Under_1_year,0
+Rhode_Island,Unknown,0-17 ,0
+Rhode_Island,Unknown,1-4 ,0
+Rhode_Island,Unknown,5-14 ,0
+Rhode_Island,Unknown,15-24 ,0
+Rhode_Island,Unknown,18-29 ,0
+Rhode_Island,Unknown,25-34 ,0
+Rhode_Island,Unknown,30-49 ,0
+Rhode_Island,Unknown,35-44 ,0
+Rhode_Island,Unknown,45-54 ,0
+Rhode_Island,Unknown,50-64 ,0
+Rhode_Island,Unknown,55-64 ,0
+Rhode_Island,Unknown,65-74 ,0
+Rhode_Island,Unknown,75-84 ,0
+Rhode_Island,Unknown,85 _and_over,0
+Rhode_Island,Unknown,All_Ages,0
+Rhode_Island,All_Sexes,All_Ages,1008
+South_Carolina,Male,Under_1_year,
+South_Carolina,Male,0-17 ,
+South_Carolina,Male,1-4 ,0
+South_Carolina,Male,5-14 ,0
+South_Carolina,Male,15-24 ,
+South_Carolina,Male,18-29 ,
+South_Carolina,Male,25-34 ,
+South_Carolina,Male,30-49 ,60
+South_Carolina,Male,35-44 ,31
+South_Carolina,Male,45-54 ,54
+South_Carolina,Male,50-64 ,184
+South_Carolina,Male,55-64 ,154
+South_Carolina,Male,65-74 ,275
+South_Carolina,Male,75-84 ,366
+South_Carolina,Male,85 _and_over,238
+South_Carolina,Male,All_Ages,1131
+South_Carolina,Female,Under_1_year,0
+South_Carolina,Female,0-17 ,0
+South_Carolina,Female,1-4 ,0
+South_Carolina,Female,5-14 ,0
+South_Carolina,Female,15-24 ,
+South_Carolina,Female,18-29 ,
+South_Carolina,Female,25-34 ,
+South_Carolina,Female,30-49 ,18
+South_Carolina,Female,35-44 ,
+South_Carolina,Female,45-54 ,36
+South_Carolina,Female,50-64 ,160
+South_Carolina,Female,55-64 ,135
+South_Carolina,Female,65-74 ,259
+South_Carolina,Female,75-84 ,293
+South_Carolina,Female,85 _and_over,347
+South_Carolina,Female,All_Ages,1081
+South_Carolina,Unknown,Under_1_year,0
+South_Carolina,Unknown,0-17 ,0
+South_Carolina,Unknown,1-4 ,0
+South_Carolina,Unknown,5-14 ,0
+South_Carolina,Unknown,15-24 ,0
+South_Carolina,Unknown,18-29 ,0
+South_Carolina,Unknown,25-34 ,0
+South_Carolina,Unknown,30-49 ,0
+South_Carolina,Unknown,35-44 ,0
+South_Carolina,Unknown,45-54 ,0
+South_Carolina,Unknown,50-64 ,0
+South_Carolina,Unknown,55-64 ,0
+South_Carolina,Unknown,65-74 ,0
+South_Carolina,Unknown,75-84 ,0
+South_Carolina,Unknown,85 _and_over,0
+South_Carolina,Unknown,All_Ages,0
+South_Carolina,All_Sexes,All_Ages,2212
+South_Dakota,Male,Under_1_year,0
+South_Dakota,Male,0-17 ,0
+South_Dakota,Male,1-4 ,0
+South_Dakota,Male,5-14 ,0
+South_Dakota,Male,15-24 ,0
+South_Dakota,Male,18-29 ,
+South_Dakota,Male,25-34 ,
+South_Dakota,Male,30-49 ,13
+South_Dakota,Male,35-44 ,
+South_Dakota,Male,45-54 ,
+South_Dakota,Male,50-64 ,23
+South_Dakota,Male,55-64 ,19
+South_Dakota,Male,65-74 ,16
+South_Dakota,Male,75-84 ,16
+South_Dakota,Male,85 _and_over,23
+South_Dakota,Male,All_Ages,92
+South_Dakota,Female,Under_1_year,0
+South_Dakota,Female,0-17 ,0
+South_Dakota,Female,1-4 ,0
+South_Dakota,Female,5-14 ,0
+South_Dakota,Female,15-24 ,
+South_Dakota,Female,18-29 ,
+South_Dakota,Female,25-34 ,0
+South_Dakota,Female,30-49 ,
+South_Dakota,Female,35-44 ,0
+South_Dakota,Female,45-54 ,
+South_Dakota,Female,50-64 ,14
+South_Dakota,Female,55-64 ,11
+South_Dakota,Female,65-74 ,16
+South_Dakota,Female,75-84 ,12
+South_Dakota,Female,85 _and_over,41
+South_Dakota,Female,All_Ages,87
+South_Dakota,Unknown,Under_1_year,0
+South_Dakota,Unknown,0-17 ,0
+South_Dakota,Unknown,1-4 ,0
+South_Dakota,Unknown,5-14 ,0
+South_Dakota,Unknown,15-24 ,0
+South_Dakota,Unknown,18-29 ,0
+South_Dakota,Unknown,25-34 ,0
+South_Dakota,Unknown,30-49 ,0
+South_Dakota,Unknown,35-44 ,0
+South_Dakota,Unknown,45-54 ,0
+South_Dakota,Unknown,50-64 ,0
+South_Dakota,Unknown,55-64 ,0
+South_Dakota,Unknown,65-74 ,0
+South_Dakota,Unknown,75-84 ,0
+South_Dakota,Unknown,85 _and_over,0
+South_Dakota,Unknown,All_Ages,0
+South_Dakota,All_Sexes,All_Ages,179
+Tennessee,Male,Under_1_year,
+Tennessee,Male,0-17 ,
+Tennessee,Male,1-4 ,
+Tennessee,Male,5-14 ,0
+Tennessee,Male,15-24 ,
+Tennessee,Male,18-29 ,
+Tennessee,Male,25-34 ,
+Tennessee,Male,30-49 ,56
+Tennessee,Male,35-44 ,31
+Tennessee,Male,45-54 ,54
+Tennessee,Male,50-64 ,191
+Tennessee,Male,55-64 ,156
+Tennessee,Male,65-74 ,220
+Tennessee,Male,75-84 ,276
+Tennessee,Male,85 _and_over,153
+Tennessee,Male,All_Ages,901
+Tennessee,Female,Under_1_year,0
+Tennessee,Female,0-17 ,
+Tennessee,Female,1-4 ,
+Tennessee,Female,5-14 ,0
+Tennessee,Female,15-24 ,
+Tennessee,Female,18-29 ,
+Tennessee,Female,25-34 ,
+Tennessee,Female,30-49 ,38
+Tennessee,Female,35-44 ,18
+Tennessee,Female,45-54 ,34
+Tennessee,Female,50-64 ,100
+Tennessee,Female,55-64 ,84
+Tennessee,Female,65-74 ,149
+Tennessee,Female,75-84 ,181
+Tennessee,Female,85 _and_over,189
+Tennessee,Female,All_Ages,663
+Tennessee,Unknown,Under_1_year,0
+Tennessee,Unknown,0-17 ,0
+Tennessee,Unknown,1-4 ,0
+Tennessee,Unknown,5-14 ,0
+Tennessee,Unknown,15-24 ,0
+Tennessee,Unknown,18-29 ,0
+Tennessee,Unknown,25-34 ,0
+Tennessee,Unknown,30-49 ,0
+Tennessee,Unknown,35-44 ,0
+Tennessee,Unknown,45-54 ,0
+Tennessee,Unknown,50-64 ,0
+Tennessee,Unknown,55-64 ,0
+Tennessee,Unknown,65-74 ,0
+Tennessee,Unknown,75-84 ,0
+Tennessee,Unknown,85 _and_over,0
+Tennessee,Unknown,All_Ages,0
+Tennessee,All_Sexes,All_Ages,1564
+Texas,Male,Under_1_year,
+Texas,Male,0-17 ,11
+Texas,Male,1-4 ,
+Texas,Male,5-14 ,
+Texas,Male,15-24 ,18
+Texas,Male,18-29 ,57
+Texas,Male,25-34 ,112
+Texas,Male,30-49 ,594
+Texas,Male,35-44 ,265
+Texas,Male,45-54 ,648
+Texas,Male,50-64 ,1671
+Texas,Male,55-64 ,1282
+Texas,Male,65-74 ,1821
+Texas,Male,75-84 ,1722
+Texas,Male,85 _and_over,1138
+Texas,Male,All_Ages,7014
+Texas,Female,Under_1_year,0
+Texas,Female,0-17 ,
+Texas,Female,1-4 ,
+Texas,Female,5-14 ,
+Texas,Female,15-24 ,15
+Texas,Female,18-29 ,27
+Texas,Female,25-34 ,45
+Texas,Female,30-49 ,274
+Texas,Female,35-44 ,130
+Texas,Female,45-54 ,313
+Texas,Female,50-64 ,887
+Texas,Female,55-64 ,689
+Texas,Female,65-74 ,1114
+Texas,Female,75-84 ,1199
+Texas,Female,85 _and_over,1406
+Texas,Female,All_Ages,4914
+Texas,Unknown,Under_1_year,0
+Texas,Unknown,0-17 ,0
+Texas,Unknown,1-4 ,0
+Texas,Unknown,5-14 ,0
+Texas,Unknown,15-24 ,0
+Texas,Unknown,18-29 ,0
+Texas,Unknown,25-34 ,0
+Texas,Unknown,30-49 ,0
+Texas,Unknown,35-44 ,0
+Texas,Unknown,45-54 ,0
+Texas,Unknown,50-64 ,0
+Texas,Unknown,55-64 ,0
+Texas,Unknown,65-74 ,0
+Texas,Unknown,75-84 ,0
+Texas,Unknown,85 _and_over,0
+Texas,Unknown,All_Ages,0
+Texas,All_Sexes,All_Ages,11928
+Utah,Male,Under_1_year,0
+Utah,Male,0-17 ,0
+Utah,Male,1-4 ,0
+Utah,Male,5-14 ,0
+Utah,Male,15-24 ,
+Utah,Male,18-29 ,
+Utah,Male,25-34 ,
+Utah,Male,30-49 ,17
+Utah,Male,35-44 ,
+Utah,Male,45-54 ,19
+Utah,Male,50-64 ,61
+Utah,Male,55-64 ,48
+Utah,Male,65-74 ,58
+Utah,Male,75-84 ,64
+Utah,Male,85 _and_over,43
+Utah,Male,All_Ages,246
+Utah,Female,Under_1_year,0
+Utah,Female,0-17 ,0
+Utah,Female,1-4 ,0
+Utah,Female,5-14 ,0
+Utah,Female,15-24 ,
+Utah,Female,18-29 ,
+Utah,Female,25-34 ,
+Utah,Female,30-49 ,
+Utah,Female,35-44 ,
+Utah,Female,45-54 ,
+Utah,Female,50-64 ,23
+Utah,Female,55-64 ,17
+Utah,Female,65-74 ,34
+Utah,Female,75-84 ,42
+Utah,Female,85 _and_over,53
+Utah,Female,All_Ages,161
+Utah,Unknown,Under_1_year,0
+Utah,Unknown,0-17 ,0
+Utah,Unknown,1-4 ,0
+Utah,Unknown,5-14 ,0
+Utah,Unknown,15-24 ,0
+Utah,Unknown,18-29 ,0
+Utah,Unknown,25-34 ,0
+Utah,Unknown,30-49 ,0
+Utah,Unknown,35-44 ,0
+Utah,Unknown,45-54 ,0
+Utah,Unknown,50-64 ,0
+Utah,Unknown,55-64 ,0
+Utah,Unknown,65-74 ,0
+Utah,Unknown,75-84 ,0
+Utah,Unknown,85 _and_over,0
+Utah,Unknown,All_Ages,0
+Utah,All_Sexes,All_Ages,407
+Vermont,Male,Under_1_year,0
+Vermont,Male,0-17 ,0
+Vermont,Male,1-4 ,0
+Vermont,Male,5-14 ,0
+Vermont,Male,15-24 ,0
+Vermont,Male,18-29 ,0
+Vermont,Male,25-34 ,0
+Vermont,Male,30-49 ,
+Vermont,Male,35-44 ,
+Vermont,Male,45-54 ,
+Vermont,Male,50-64 ,
+Vermont,Male,55-64 ,
+Vermont,Male,65-74 ,
+Vermont,Male,75-84 ,16
+Vermont,Male,85 _and_over,
+Vermont,Male,All_Ages,35
+Vermont,Female,Under_1_year,0
+Vermont,Female,0-17 ,0
+Vermont,Female,1-4 ,0
+Vermont,Female,5-14 ,0
+Vermont,Female,15-24 ,0
+Vermont,Female,18-29 ,0
+Vermont,Female,25-34 ,0
+Vermont,Female,30-49 ,
+Vermont,Female,35-44 ,
+Vermont,Female,45-54 ,
+Vermont,Female,50-64 ,0
+Vermont,Female,55-64 ,0
+Vermont,Female,65-74 ,
+Vermont,Female,75-84 ,
+Vermont,Female,85 _and_over,10
+Vermont,Female,All_Ages,24
+Vermont,Unknown,Under_1_year,0
+Vermont,Unknown,0-17 ,0
+Vermont,Unknown,1-4 ,0
+Vermont,Unknown,5-14 ,0
+Vermont,Unknown,15-24 ,0
+Vermont,Unknown,18-29 ,0
+Vermont,Unknown,25-34 ,0
+Vermont,Unknown,30-49 ,0
+Vermont,Unknown,35-44 ,0
+Vermont,Unknown,45-54 ,0
+Vermont,Unknown,50-64 ,0
+Vermont,Unknown,55-64 ,0
+Vermont,Unknown,65-74 ,0
+Vermont,Unknown,75-84 ,0
+Vermont,Unknown,85 _and_over,0
+Vermont,Unknown,All_Ages,0
+Vermont,All_Sexes,All_Ages,59
+Virginia,Male,Under_1_year,0
+Virginia,Male,0-17 ,0
+Virginia,Male,1-4 ,0
+Virginia,Male,5-14 ,0
+Virginia,Male,15-24 ,
+Virginia,Male,18-29 ,
+Virginia,Male,25-34 ,
+Virginia,Male,30-49 ,64
+Virginia,Male,35-44 ,24
+Virginia,Male,45-54 ,74
+Virginia,Male,50-64 ,229
+Virginia,Male,55-64 ,192
+Virginia,Male,65-74 ,302
+Virginia,Male,75-84 ,380
+Virginia,Male,85 _and_over,335
+Virginia,Male,All_Ages,1314
+Virginia,Female,Under_1_year,0
+Virginia,Female,0-17 ,0
+Virginia,Female,1-4 ,0
+Virginia,Female,5-14 ,0
+Virginia,Female,15-24 ,0
+Virginia,Female,18-29 ,
+Virginia,Female,25-34 ,
+Virginia,Female,30-49 ,36
+Virginia,Female,35-44 ,19
+Virginia,Female,45-54 ,40
+Virginia,Female,50-64 ,125
+Virginia,Female,55-64 ,99
+Virginia,Female,65-74 ,219
+Virginia,Female,75-84 ,335
+Virginia,Female,85 _and_over,577
+Virginia,Female,All_Ages,1293
+Virginia,Unknown,Under_1_year,0
+Virginia,Unknown,0-17 ,0
+Virginia,Unknown,1-4 ,0
+Virginia,Unknown,5-14 ,0
+Virginia,Unknown,15-24 ,0
+Virginia,Unknown,18-29 ,0
+Virginia,Unknown,25-34 ,0
+Virginia,Unknown,30-49 ,0
+Virginia,Unknown,35-44 ,0
+Virginia,Unknown,45-54 ,
+Virginia,Unknown,50-64 ,
+Virginia,Unknown,55-64 ,0
+Virginia,Unknown,65-74 ,0
+Virginia,Unknown,75-84 ,0
+Virginia,Unknown,85 _and_over,0
+Virginia,Unknown,All_Ages,
+Virginia,All_Sexes,All_Ages,2608
+Washington,Male,Under_1_year,0
+Washington,Male,0-17 ,0
+Washington,Male,1-4 ,0
+Washington,Male,5-14 ,0
+Washington,Male,15-24 ,
+Washington,Male,18-29 ,
+Washington,Male,25-34 ,
+Washington,Male,30-49 ,45
+Washington,Male,35-44 ,21
+Washington,Male,45-54 ,46
+Washington,Male,50-64 ,140
+Washington,Male,55-64 ,115
+Washington,Male,65-74 ,195
+Washington,Male,75-84 ,246
+Washington,Male,85 _and_over,280
+Washington,Male,All_Ages,912
+Washington,Female,Under_1_year,0
+Washington,Female,0-17 ,0
+Washington,Female,1-4 ,0
+Washington,Female,5-14 ,0
+Washington,Female,15-24 ,0
+Washington,Female,18-29 ,
+Washington,Female,25-34 ,
+Washington,Female,30-49 ,14
+Washington,Female,35-44 ,
+Washington,Female,45-54 ,26
+Washington,Female,50-64 ,74
+Washington,Female,55-64 ,56
+Washington,Female,65-74 ,130
+Washington,Female,75-84 ,207
+Washington,Female,85 _and_over,331
+Washington,Female,All_Ages,757
+Washington,Unknown,Under_1_year,0
+Washington,Unknown,0-17 ,0
+Washington,Unknown,1-4 ,0
+Washington,Unknown,5-14 ,0
+Washington,Unknown,15-24 ,0
+Washington,Unknown,18-29 ,0
+Washington,Unknown,25-34 ,0
+Washington,Unknown,30-49 ,0
+Washington,Unknown,35-44 ,0
+Washington,Unknown,45-54 ,0
+Washington,Unknown,50-64 ,0
+Washington,Unknown,55-64 ,0
+Washington,Unknown,65-74 ,0
+Washington,Unknown,75-84 ,0
+Washington,Unknown,85 _and_over,0
+Washington,Unknown,All_Ages,0
+Washington,All_Sexes,All_Ages,1669
+West_Virginia,Male,Under_1_year,0
+West_Virginia,Male,0-17 ,0
+West_Virginia,Male,1-4 ,0
+West_Virginia,Male,5-14 ,0
+West_Virginia,Male,15-24 ,0
+West_Virginia,Male,18-29 ,
+West_Virginia,Male,25-34 ,
+West_Virginia,Male,30-49 ,0
+West_Virginia,Male,35-44 ,0
+West_Virginia,Male,45-54 ,
+West_Virginia,Male,50-64 ,
+West_Virginia,Male,55-64 ,
+West_Virginia,Male,65-74 ,24
+West_Virginia,Male,75-84 ,23
+West_Virginia,Male,85 _and_over,19
+West_Virginia,Male,All_Ages,74
+West_Virginia,Female,Under_1_year,0
+West_Virginia,Female,0-17 ,0
+West_Virginia,Female,1-4 ,0
+West_Virginia,Female,5-14 ,0
+West_Virginia,Female,15-24 ,0
+West_Virginia,Female,18-29 ,
+West_Virginia,Female,25-34 ,
+West_Virginia,Female,30-49 ,
+West_Virginia,Female,35-44 ,
+West_Virginia,Female,45-54 ,
+West_Virginia,Female,50-64 ,
+West_Virginia,Female,55-64 ,
+West_Virginia,Female,65-74 ,17
+West_Virginia,Female,75-84 ,20
+West_Virginia,Female,85 _and_over,34
+West_Virginia,Female,All_Ages,78
+West_Virginia,Unknown,Under_1_year,0
+West_Virginia,Unknown,0-17 ,0
+West_Virginia,Unknown,1-4 ,0
+West_Virginia,Unknown,5-14 ,0
+West_Virginia,Unknown,15-24 ,0
+West_Virginia,Unknown,18-29 ,0
+West_Virginia,Unknown,25-34 ,0
+West_Virginia,Unknown,30-49 ,0
+West_Virginia,Unknown,35-44 ,0
+West_Virginia,Unknown,45-54 ,0
+West_Virginia,Unknown,50-64 ,0
+West_Virginia,Unknown,55-64 ,0
+West_Virginia,Unknown,65-74 ,0
+West_Virginia,Unknown,75-84 ,0
+West_Virginia,Unknown,85 _and_over,0
+West_Virginia,Unknown,All_Ages,0
+West_Virginia,All_Sexes,All_Ages,152
+Wisconsin,Male,Under_1_year,
+Wisconsin,Male,0-17 ,
+Wisconsin,Male,1-4 ,0
+Wisconsin,Male,5-14 ,0
+Wisconsin,Male,15-24 ,
+Wisconsin,Male,18-29 ,
+Wisconsin,Male,25-34 ,
+Wisconsin,Male,30-49 ,28
+Wisconsin,Male,35-44 ,11
+Wisconsin,Male,45-54 ,37
+Wisconsin,Male,50-64 ,101
+Wisconsin,Male,55-64 ,78
+Wisconsin,Male,65-74 ,146
+Wisconsin,Male,75-84 ,148
+Wisconsin,Male,85 _and_over,153
+Wisconsin,Male,All_Ages,581
+Wisconsin,Female,Under_1_year,0
+Wisconsin,Female,0-17 ,0
+Wisconsin,Female,1-4 ,0
+Wisconsin,Female,5-14 ,0
+Wisconsin,Female,15-24 ,
+Wisconsin,Female,18-29 ,
+Wisconsin,Female,25-34 ,
+Wisconsin,Female,30-49 ,16
+Wisconsin,Female,35-44 ,
+Wisconsin,Female,45-54 ,19
+Wisconsin,Female,50-64 ,61
+Wisconsin,Female,55-64 ,49
+Wisconsin,Female,65-74 ,95
+Wisconsin,Female,75-84 ,134
+Wisconsin,Female,85 _and_over,192
+Wisconsin,Female,All_Ages,502
+Wisconsin,Unknown,Under_1_year,0
+Wisconsin,Unknown,0-17 ,0
+Wisconsin,Unknown,1-4 ,0
+Wisconsin,Unknown,5-14 ,0
+Wisconsin,Unknown,15-24 ,0
+Wisconsin,Unknown,18-29 ,0
+Wisconsin,Unknown,25-34 ,0
+Wisconsin,Unknown,30-49 ,0
+Wisconsin,Unknown,35-44 ,0
+Wisconsin,Unknown,45-54 ,0
+Wisconsin,Unknown,50-64 ,0
+Wisconsin,Unknown,55-64 ,0
+Wisconsin,Unknown,65-74 ,0
+Wisconsin,Unknown,75-84 ,0
+Wisconsin,Unknown,85 _and_over,0
+Wisconsin,Unknown,All_Ages,0
+Wisconsin,All_Sexes,All_Ages,1083
+Wyoming,Male,Under_1_year,0
+Wyoming,Male,0-17 ,0
+Wyoming,Male,1-4 ,0
+Wyoming,Male,5-14 ,0
+Wyoming,Male,15-24 ,0
+Wyoming,Male,18-29 ,0
+Wyoming,Male,25-34 ,0
+Wyoming,Male,30-49 ,
+Wyoming,Male,35-44 ,
+Wyoming,Male,45-54 ,
+Wyoming,Male,50-64 ,
+Wyoming,Male,55-64 ,
+Wyoming,Male,65-74 ,
+Wyoming,Male,75-84 ,
+Wyoming,Male,85 _and_over,
+Wyoming,Male,All_Ages,16
+Wyoming,Female,Under_1_year,0
+Wyoming,Female,0-17 ,0
+Wyoming,Female,1-4 ,0
+Wyoming,Female,5-14 ,0
+Wyoming,Female,15-24 ,0
+Wyoming,Female,18-29 ,
+Wyoming,Female,25-34 ,
+Wyoming,Female,30-49 ,
+Wyoming,Female,35-44 ,0
+Wyoming,Female,45-54 ,
+Wyoming,Female,50-64 ,
+Wyoming,Female,55-64 ,
+Wyoming,Female,65-74 ,
+Wyoming,Female,75-84 ,
+Wyoming,Female,85 _and_over,
+Wyoming,Female,All_Ages,15
+Wyoming,Unknown,Under_1_year,0
+Wyoming,Unknown,0-17 ,0
+Wyoming,Unknown,1-4 ,0
+Wyoming,Unknown,5-14 ,0
+Wyoming,Unknown,15-24 ,0
+Wyoming,Unknown,18-29 ,0
+Wyoming,Unknown,25-34 ,0
+Wyoming,Unknown,30-49 ,0
+Wyoming,Unknown,35-44 ,0
+Wyoming,Unknown,45-54 ,0
+Wyoming,Unknown,50-64 ,0
+Wyoming,Unknown,55-64 ,0
+Wyoming,Unknown,65-74 ,0
+Wyoming,Unknown,75-84 ,0
+Wyoming,Unknown,85 _and_over,0
+Wyoming,Unknown,All_Ages,0
+Wyoming,All_Sexes,All_Ages,31
+Puerto_Rico,Male,Under_1_year,0
+Puerto_Rico,Male,0-17 ,0
+Puerto_Rico,Male,1-4 ,0
+Puerto_Rico,Male,5-14 ,0
+Puerto_Rico,Male,15-24 ,0
+Puerto_Rico,Male,18-29 ,
+Puerto_Rico,Male,25-34 ,
+Puerto_Rico,Male,30-49 ,18
+Puerto_Rico,Male,35-44 ,
+Puerto_Rico,Male,45-54 ,17
+Puerto_Rico,Male,50-64 ,38
+Puerto_Rico,Male,55-64 ,28
+Puerto_Rico,Male,65-74 ,49
+Puerto_Rico,Male,75-84 ,55
+Puerto_Rico,Male,85 _and_over,34
+Puerto_Rico,Male,All_Ages,195
+Puerto_Rico,Female,Under_1_year,0
+Puerto_Rico,Female,0-17 ,
+Puerto_Rico,Female,1-4 ,0
+Puerto_Rico,Female,5-14 ,
+Puerto_Rico,Female,15-24 ,
+Puerto_Rico,Female,18-29 ,
+Puerto_Rico,Female,25-34 ,
+Puerto_Rico,Female,30-49 ,
+Puerto_Rico,Female,35-44 ,
+Puerto_Rico,Female,45-54 ,
+Puerto_Rico,Female,50-64 ,21
+Puerto_Rico,Female,55-64 ,15
+Puerto_Rico,Female,65-74 ,28
+Puerto_Rico,Female,75-84 ,37
+Puerto_Rico,Female,85 _and_over,30
+Puerto_Rico,Female,All_Ages,125
+Puerto_Rico,Unknown,Under_1_year,0
+Puerto_Rico,Unknown,0-17 ,0
+Puerto_Rico,Unknown,1-4 ,0
+Puerto_Rico,Unknown,5-14 ,0
+Puerto_Rico,Unknown,15-24 ,0
+Puerto_Rico,Unknown,18-29 ,0
+Puerto_Rico,Unknown,25-34 ,0
+Puerto_Rico,Unknown,30-49 ,0
+Puerto_Rico,Unknown,35-44 ,0
+Puerto_Rico,Unknown,45-54 ,0
+Puerto_Rico,Unknown,55-64 ,0
+Puerto_Rico,Unknown,65-74 ,0
+Puerto_Rico,Unknown,75-84 ,0
+Puerto_Rico,Unknown,85 _and_over,0
+Puerto_Rico,Unknown,All_Ages,0
+Puerto_Rico,All_Sexes,All_Ages,320
