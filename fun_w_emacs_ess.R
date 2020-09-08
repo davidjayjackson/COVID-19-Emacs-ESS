@@ -5,6 +5,7 @@
 ## 4. Downlaod CDC COVID-19 Deaths by Age and Sex
 ## 5. Use sed and cut, grep to pull US and Ohio Data
 ## 6. Fire up eamcs in ess/R mode and install ggplot2
+## 7. Install scales also.
 ##
 install.packages("ggplot2")
 ## ggplit(df) + geom_lines(aes(x=date,y=deaths) + labs(title="",xlab="",ylab=") + geom_smooth(aes(x,y)
