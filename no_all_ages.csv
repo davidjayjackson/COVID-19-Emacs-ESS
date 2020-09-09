@@ -1,5 +1,4 @@
 State,Sex,Age_group,COVID-19_Deaths
-United_States,All_Sexes,All_Ages,175866
 United_States,All_Sexes,Under_1_year,19
 United_States,All_Sexes,0-17_years,88
 United_States,All_Sexes,1-4_years,14
@@ -30,7 +29,6 @@ United_States,Male,55-64_years,14493
 United_States,Male,65-74_years,23213
 United_States,Male,75-84_years,25562
 United_States,Male,85_years_and_over,21770
-United_States,Male,All_Ages,94969
 United_States,Female,Under_1_year,6
 United_States,Female,0-17_years,34
 United_States,Female,1-4_years,7
@@ -46,7 +44,6 @@ United_States,Female,55-64_years,7761
 United_States,Female,65-74_years,14470
 United_States,Female,75-84_years,20924
 United_States,Female,85_years_and_over,33067
-United_States,Female,All_Ages,80893
 United_States,Unknown,Under_1_year,0
 United_States,Unknown,0-17_years,0
 United_States,Unknown,1-4_years,0
@@ -62,7 +59,6 @@ United_States,Unknown,55-64_years,0
 United_States,Unknown,65-74_years,1
 United_States,Unknown,75-84_years,1
 United_States,Unknown,85_years_and_over,1
-United_States,Unknown,All_Ages,4
 Alabama,Male,Under_1_year,
 Alabama,Male,0-17_years,
 Alabama,Male,1-4_years,0
@@ -78,7 +74,6 @@ Alabama,Male,55-64_years,208
 Alabama,Male,65-74_years,380
 Alabama,Male,75-84_years,378
 Alabama,Male,85_years_and_over,255
-Alabama,Male,All_Ages,1369
 Alabama,Female,Under_1_year,0
 Alabama,Female,0-17_years,0
 Alabama,Female,1-4_years,0
@@ -94,7 +89,6 @@ Alabama,Female,55-64_years,158
 Alabama,Female,65-74_years,289
 Alabama,Female,75-84_years,337
 Alabama,Female,85_years_and_over,434
-Alabama,Female,All_Ages,1321
 Alabama,Unknown,Under_1_year,0
 Alabama,Unknown,0-17_years,0
 Alabama,Unknown,1-4_years,0
@@ -110,8 +104,6 @@ Alabama,Unknown,55-64_years,0
 Alabama,Unknown,65-74_years,0
 Alabama,Unknown,75-84_years,0
 Alabama,Unknown,85_years_and_over,0
-Alabama,Unknown,All_Ages,0
-Alabama,All_Sexes,All_Ages,2690
 Alaska,Male,Under_1_year,0
 Alaska,Male,0-17_years,0
 Alaska,Male,1-4_years,0
@@ -127,7 +119,6 @@ Alaska,Male,55-64_years,
 Alaska,Male,65-74_years,
 Alaska,Male,75-84_years,
 Alaska,Male,85_years_and_over,
-Alaska,Male,All_Ages,23
 Alaska,Female,Under_1_year,0
 Alaska,Female,0-17_years,0
 Alaska,Female,1-4_years,0
@@ -143,7 +134,6 @@ Alaska,Female,55-64_years,
 Alaska,Female,65-74_years,
 Alaska,Female,75-84_years,
 Alaska,Female,85_years_and_over,
-Alaska,Female,All_Ages,11
 Alaska,Unknown,Under_1_year,0
 Alaska,Unknown,0-17_years,0
 Alaska,Unknown,1-4_years,0
@@ -159,8 +149,6 @@ Alaska,Unknown,55-64_years,0
 Alaska,Unknown,65-74_years,0
 Alaska,Unknown,75-84_years,0
 Alaska,Unknown,85_years_and_over,0
-Alaska,Unknown,All_Ages,0
-Alaska,All_Sexes,All_Ages,34
 Arizona,Male,Under_1_year,0
 Arizona,Male,0-17_years,
 Arizona,Male,1-4_years,
@@ -176,7 +164,6 @@ Arizona,Male,55-64_years,465
 Arizona,Male,65-74_years,635
 Arizona,Male,75-84_years,704
 Arizona,Male,85_years_and_over,503
-Arizona,Male,All_Ages,2702
 Arizona,Female,Under_1_year,0
 Arizona,Female,0-17_years,0
 Arizona,Female,1-4_years,0
@@ -192,7 +179,6 @@ Arizona,Female,55-64_years,269
 Arizona,Female,65-74_years,430
 Arizona,Female,75-84_years,526
 Arizona,Female,85_years_and_over,572
-Arizona,Female,All_Ages,1984
 Arizona,Unknown,Under_1_year,0
 Arizona,Unknown,0-17_years,0
 Arizona,Unknown,1-4_years,0
@@ -208,8 +194,6 @@ Arizona,Unknown,55-64_years,0
 Arizona,Unknown,65-74_years,0
 Arizona,Unknown,75-84_years,0
 Arizona,Unknown,85_years_and_over,0
-Arizona,Unknown,All_Ages,0
-Arizona,All_Sexes,All_Ages,4686
 Arkansas,Male,Under_1_year,0
 Arkansas,Male,0-17_years,0
 Arkansas,Male,1-4_years,0
@@ -225,7 +209,6 @@ Arkansas,Male,55-64_years,84
 Arkansas,Male,65-74_years,106
 Arkansas,Male,75-84_years,130
 Arkansas,Male,85_years_and_over,92
-Arkansas,Male,All_Ages,473
 Arkansas,Female,Under_1_year,0
 Arkansas,Female,0-17_years,0
 Arkansas,Female,1-4_years,0
@@ -241,7 +224,6 @@ Arkansas,Female,55-64_years,52
 Arkansas,Female,65-74_years,69
 Arkansas,Female,75-84_years,101
 Arkansas,Female,85_years_and_over,153
-Arkansas,Female,All_Ages,410
 Arkansas,Unknown,Under_1_year,0
 Arkansas,Unknown,0-17_years,0
 Arkansas,Unknown,1-4_years,0
@@ -257,8 +239,6 @@ Arkansas,Unknown,55-64_years,0
 Arkansas,Unknown,65-74_years,0
 Arkansas,Unknown,75-84_years,0
 Arkansas,Unknown,85_years_and_over,0
-Arkansas,Unknown,All_Ages,0
-Arkansas,All_Sexes,All_Ages,883
 California,Male,Under_1_year,
 California,Male,0-17_years,
 California,Male,1-4_years,0
@@ -274,7 +254,6 @@ California,Male,55-64_years,1350
 California,Male,65-74_years,1847
 California,Male,75-84_years,1764
 California,Male,85_years_and_over,1555
-California,Male,All_Ages,7547
 California,Female,Under_1_year,0
 California,Female,0-17_years,
 California,Female,1-4_years,0
@@ -290,7 +269,6 @@ California,Female,55-64_years,551
 California,Female,65-74_years,978
 California,Female,75-84_years,1346
 California,Female,85_years_and_over,2113
-California,Female,All_Ages,5421
 California,Unknown,Under_1_year,0
 California,Unknown,0-17_years,0
 California,Unknown,1-4_years,0
@@ -306,8 +284,6 @@ California,Unknown,55-64_years,0
 California,Unknown,65-74_years,0
 California,Unknown,75-84_years,0
 California,Unknown,85_years_and_over,0
-California,Unknown,All_Ages,0
-California,All_Sexes,All_Ages,12968
 Colorado,Male,Under_1_year,0
 Colorado,Male,0-17_years,
 Colorado,Male,1-4_years,0
@@ -323,7 +299,6 @@ Colorado,Male,55-64_years,135
 Colorado,Male,65-74_years,235
 Colorado,Male,75-84_years,306
 Colorado,Male,85_years_and_over,295
-Colorado,Male,All_Ages,1065
 Colorado,Female,Under_1_year,0
 Colorado,Female,0-17_years,
 Colorado,Female,1-4_years,0
@@ -339,7 +314,6 @@ Colorado,Female,55-64_years,46
 Colorado,Female,65-74_years,132
 Colorado,Female,75-84_years,217
 Colorado,Female,85_years_and_over,386
-Colorado,Female,All_Ages,817
 Colorado,Unknown,Under_1_year,0
 Colorado,Unknown,0-17_years,0
 Colorado,Unknown,1-4_years,0
@@ -355,8 +329,6 @@ Colorado,Unknown,55-64_years,0
 Colorado,Unknown,65-74_years,0
 Colorado,Unknown,75-84_years,0
 Colorado,Unknown,85_years_and_over,0
-Colorado,Unknown,All_Ages,0
-Colorado,All_Sexes,All_Ages,1882
 Connecticut,Male,Under_1_year,0
 Connecticut,Male,0-17_years,0
 Connecticut,Male,1-4_years,0
@@ -372,7 +344,6 @@ Connecticut,Male,55-64_years,234
 Connecticut,Male,65-74_years,453
 Connecticut,Male,75-84_years,573
 Connecticut,Male,85_years_and_over,725
-Connecticut,Male,All_Ages,2091
 Connecticut,Female,Under_1_year,0
 Connecticut,Female,0-17_years,0
 Connecticut,Female,1-4_years,0
@@ -388,7 +359,6 @@ Connecticut,Female,55-64_years,123
 Connecticut,Female,65-74_years,292
 Connecticut,Female,75-84_years,570
 Connecticut,Female,85_years_and_over,1244
-Connecticut,Female,All_Ages,2269
 Connecticut,Unknown,Under_1_year,0
 Connecticut,Unknown,0-17_years,0
 Connecticut,Unknown,1-4_years,0
@@ -404,8 +374,6 @@ Connecticut,Unknown,55-64_years,0
 Connecticut,Unknown,65-74_years,0
 Connecticut,Unknown,75-84_years,0
 Connecticut,Unknown,85_years_and_over,0
-Connecticut,Unknown,All_Ages,0
-Connecticut,All_Sexes,All_Ages,4360
 Delaware,Male,Under_1_year,0
 Delaware,Male,0-17_years,0
 Delaware,Male,1-4_years,0
@@ -421,7 +389,6 @@ Delaware,Male,55-64_years,32
 Delaware,Male,65-74_years,75
 Delaware,Male,75-84_years,72
 Delaware,Male,85_years_and_over,63
-Delaware,Male,All_Ages,260
 Delaware,Female,Under_1_year,0
 Delaware,Female,0-17_years,0
 Delaware,Female,1-4_years,0
@@ -437,7 +404,6 @@ Delaware,Female,55-64_years,23
 Delaware,Female,65-74_years,43
 Delaware,Female,75-84_years,70
 Delaware,Female,85_years_and_over,133
-Delaware,Female,All_Ages,292
 Delaware,Unknown,Under_1_year,0
 Delaware,Unknown,0-17_years,0
 Delaware,Unknown,1-4_years,0
@@ -453,8 +419,6 @@ Delaware,Unknown,55-64_years,0
 Delaware,Unknown,65-74_years,0
 Delaware,Unknown,75-84_years,0
 Delaware,Unknown,85_years_and_over,0
-Delaware,Unknown,All_Ages,0
-Delaware,All_Sexes,All_Ages,552
 District_of_Columbia,Male,Under_1_year,
 District_of_Columbia,Male,0-17_years,
 District_of_Columbia,Male,1-4_years,0
@@ -470,7 +434,6 @@ District_of_Columbia,Male,55-64_years,82
 District_of_Columbia,Male,65-74_years,126
 District_of_Columbia,Male,75-84_years,89
 District_of_Columbia,Male,85_years_and_over,58
-District_of_Columbia,Male,All_Ages,429
 District_of_Columbia,Female,Under_1_year,0
 District_of_Columbia,Female,0-17_years,0
 District_of_Columbia,Female,1-4_years,0
@@ -486,7 +449,6 @@ District_of_Columbia,Female,55-64_years,50
 District_of_Columbia,Female,65-74_years,70
 District_of_Columbia,Female,75-84_years,63
 District_of_Columbia,Female,85_years_and_over,87
-District_of_Columbia,Female,All_Ages,300
 District_of_Columbia,Unknown,Under_1_year,0
 District_of_Columbia,Unknown,0-17_years,0
 District_of_Columbia,Unknown,1-4_years,0
@@ -502,8 +464,6 @@ District_of_Columbia,Unknown,55-64_years,0
 District_of_Columbia,Unknown,65-74_years,0
 District_of_Columbia,Unknown,75-84_years,0
 District_of_Columbia,Unknown,85_years_and_over,0
-District_of_Columbia,Unknown,All_Ages,0
-District_of_Columbia,All_Sexes,All_Ages,729
 Florida,Male,Under_1_year,0
 Florida,Male,0-17_years,
 Florida,Male,1-4_years,0
@@ -519,7 +479,6 @@ Florida,Male,55-64_years,850
 Florida,Male,65-74_years,1506
 Florida,Male,75-84_years,1916
 Florida,Male,85_years_and_over,1650
-Florida,Male,All_Ages,6452
 Florida,Female,Under_1_year,0
 Florida,Female,0-17_years,
 Florida,Female,1-4_years,0
@@ -535,7 +494,6 @@ Florida,Female,55-64_years,431
 Florida,Female,65-74_years,974
 Florida,Female,75-84_years,1458
 Florida,Female,85_years_and_over,2039
-Florida,Female,All_Ages,5183
 Florida,Unknown,Under_1_year,0
 Florida,Unknown,0-17_years,0
 Florida,Unknown,1-4_years,0
@@ -551,8 +509,6 @@ Florida,Unknown,55-64_years,0
 Florida,Unknown,65-74_years,0
 Florida,Unknown,75-84_years,0
 Florida,Unknown,85_years_and_over,0
-Florida,Unknown,All_Ages,0
-Florida,All_Sexes,All_Ages,11635
 Georgia,Male,Under_1_year,
 Georgia,Male,0-17_years,
 Georgia,Male,1-4_years,
@@ -568,7 +524,6 @@ Georgia,Male,55-64_years,409
 Georgia,Male,65-74_years,686
 Georgia,Male,75-84_years,707
 Georgia,Male,85_years_and_over,459
-Georgia,Male,All_Ages,2529
 Georgia,Female,Under_1_year,0
 Georgia,Female,0-17_years,
 Georgia,Female,1-4_years,0
@@ -584,7 +539,6 @@ Georgia,Female,55-64_years,288
 Georgia,Female,65-74_years,488
 Georgia,Female,75-84_years,618
 Georgia,Female,85_years_and_over,725
-Georgia,Female,All_Ages,2318
 Georgia,Unknown,Under_1_year,0
 Georgia,Unknown,0-17_years,0
 Georgia,Unknown,1-4_years,0
@@ -600,8 +554,6 @@ Georgia,Unknown,55-64_years,0
 Georgia,Unknown,65-74_years,0
 Georgia,Unknown,75-84_years,0
 Georgia,Unknown,85_years_and_over,0
-Georgia,Unknown,All_Ages,0
-Georgia,All_Sexes,All_Ages,4847
 Hawaii,Male,Under_1_year,0
 Hawaii,Male,0-17_years,0
 Hawaii,Male,1-4_years,0
@@ -617,7 +569,6 @@ Hawaii,Male,55-64_years,
 Hawaii,Male,65-74_years,11
 Hawaii,Male,75-84_years,
 Hawaii,Male,85_years_and_over,10
-Hawaii,Male,All_Ages,35
 Hawaii,Female,Under_1_year,0
 Hawaii,Female,0-17_years,0
 Hawaii,Female,1-4_years,0
@@ -633,7 +584,6 @@ Hawaii,Female,55-64_years,
 Hawaii,Female,65-74_years,
 Hawaii,Female,75-84_years,
 Hawaii,Female,85_years_and_over,
-Hawaii,Female,All_Ages,20
 Hawaii,Unknown,Under_1_year,0
 Hawaii,Unknown,0-17_years,0
 Hawaii,Unknown,1-4_years,0
@@ -649,8 +599,6 @@ Hawaii,Unknown,55-64_years,0
 Hawaii,Unknown,65-74_years,0
 Hawaii,Unknown,75-84_years,0
 Hawaii,Unknown,85_years_and_over,0
-Hawaii,Unknown,All_Ages,0
-Hawaii,All_Sexes,All_Ages,55
 Idaho,Male,Under_1_year,0
 Idaho,Male,0-17_years,0
 Idaho,Male,1-4_years,0
@@ -666,7 +614,6 @@ Idaho,Male,55-64_years,17
 Idaho,Male,65-74_years,39
 Idaho,Male,75-84_years,81
 Idaho,Male,85_years_and_over,67
-Idaho,Male,All_Ages,213
 Idaho,Female,Under_1_year,0
 Idaho,Female,0-17_years,0
 Idaho,Female,1-4_years,0
@@ -682,7 +629,6 @@ Idaho,Female,55-64_years,11
 Idaho,Female,65-74_years,30
 Idaho,Female,75-84_years,39
 Idaho,Female,85_years_and_over,79
-Idaho,Female,All_Ages,165
 Idaho,Unknown,Under_1_year,0
 Idaho,Unknown,0-17_years,0
 Idaho,Unknown,1-4_years,0
@@ -698,8 +644,6 @@ Idaho,Unknown,55-64_years,0
 Idaho,Unknown,65-74_years,0
 Idaho,Unknown,75-84_years,0
 Idaho,Unknown,85_years_and_over,0
-Idaho,Unknown,All_Ages,0
-Idaho,All_Sexes,All_Ages,378
 Illinois,Male,Under_1_year,
 Illinois,Male,0-17_years,
 Illinois,Male,1-4_years,0
@@ -715,7 +659,6 @@ Illinois,Male,55-64_years,612
 Illinois,Male,65-74_years,1021
 Illinois,Male,75-84_years,1048
 Illinois,Male,85_years_and_over,859
-Illinois,Male,All_Ages,4029
 Illinois,Female,Under_1_year,
 Illinois,Female,0-17_years,
 Illinois,Female,1-4_years,0
@@ -731,7 +674,6 @@ Illinois,Female,55-64_years,324
 Illinois,Female,65-74_years,566
 Illinois,Female,75-84_years,814
 Illinois,Female,85_years_and_over,1436
-Illinois,Female,All_Ages,3344
 Illinois,Unknown,Under_1_year,0
 Illinois,Unknown,0-17_years,0
 Illinois,Unknown,1-4_years,0
@@ -747,8 +689,6 @@ Illinois,Unknown,55-64_years,0
 Illinois,Unknown,65-74_years,0
 Illinois,Unknown,75-84_years,0
 Illinois,Unknown,85_years_and_over,0
-Illinois,Unknown,All_Ages,0
-Illinois,All_Sexes,All_Ages,7373
 Indiana,Male,Under_1_year,0
 Indiana,Male,0-17_years,
 Indiana,Male,1-4_years,
@@ -764,7 +704,6 @@ Indiana,Male,55-64_years,197
 Indiana,Male,65-74_years,433
 Indiana,Male,75-84_years,467
 Indiana,Male,85_years_and_over,453
-Indiana,Male,All_Ages,1636
 Indiana,Female,Under_1_year,0
 Indiana,Female,0-17_years,0
 Indiana,Female,1-4_years,0
@@ -780,7 +719,6 @@ Indiana,Female,55-64_years,115
 Indiana,Female,65-74_years,266
 Indiana,Female,75-84_years,461
 Indiana,Female,85_years_and_over,711
-Indiana,Female,All_Ages,1612
 Indiana,Unknown,Under_1_year,0
 Indiana,Unknown,0-17_years,0
 Indiana,Unknown,1-4_years,0
@@ -796,8 +734,6 @@ Indiana,Unknown,55-64_years,0
 Indiana,Unknown,65-74_years,0
 Indiana,Unknown,75-84_years,0
 Indiana,Unknown,85_years_and_over,0
-Indiana,Unknown,All_Ages,0
-Indiana,All_Sexes,All_Ages,3248
 Iowa,Male,Under_1_year,0
 Iowa,Male,0-17_years,0
 Iowa,Male,1-4_years,0
@@ -813,7 +749,6 @@ Iowa,Male,55-64_years,89
 Iowa,Male,65-74_years,137
 Iowa,Male,75-84_years,149
 Iowa,Male,85_years_and_over,173
-Iowa,Male,All_Ages,593
 Iowa,Female,Under_1_year,
 Iowa,Female,0-17_years,
 Iowa,Female,1-4_years,
@@ -829,7 +764,6 @@ Iowa,Female,55-64_years,56
 Iowa,Female,65-74_years,91
 Iowa,Female,75-84_years,129
 Iowa,Female,85_years_and_over,227
-Iowa,Female,All_Ages,526
 Iowa,Unknown,Under_1_year,0
 Iowa,Unknown,0-17_years,0
 Iowa,Unknown,1-4_years,0
@@ -845,8 +779,6 @@ Iowa,Unknown,55-64_years,0
 Iowa,Unknown,65-74_years,0
 Iowa,Unknown,75-84_years,0
 Iowa,Unknown,85_years_and_over,0
-Iowa,Unknown,All_Ages,0
-Iowa,All_Sexes,All_Ages,1119
 Kansas,Male,Under_1_year,0
 Kansas,Male,0-17_years,0
 Kansas,Male,1-4_years,0
@@ -862,7 +794,6 @@ Kansas,Male,55-64_years,53
 Kansas,Male,65-74_years,72
 Kansas,Male,75-84_years,85
 Kansas,Male,85_years_and_over,68
-Kansas,Male,All_Ages,311
 Kansas,Female,Under_1_year,0
 Kansas,Female,0-17_years,0
 Kansas,Female,1-4_years,0
@@ -878,7 +809,6 @@ Kansas,Female,55-64_years,25
 Kansas,Female,65-74_years,39
 Kansas,Female,75-84_years,51
 Kansas,Female,85_years_and_over,104
-Kansas,Female,All_Ages,231
 Kansas,Unknown,Under_1_year,0
 Kansas,Unknown,0-17_years,0
 Kansas,Unknown,1-4_years,0
@@ -894,8 +824,6 @@ Kansas,Unknown,55-64_years,0
 Kansas,Unknown,65-74_years,0
 Kansas,Unknown,75-84_years,0
 Kansas,Unknown,85_years_and_over,0
-Kansas,Unknown,All_Ages,0
-Kansas,All_Sexes,All_Ages,542
 Kentucky,Male,Under_1_year,0
 Kentucky,Male,0-17_years,0
 Kentucky,Male,1-4_years,0
@@ -911,7 +839,6 @@ Kentucky,Male,55-64_years,60
 Kentucky,Male,65-74_years,142
 Kentucky,Male,75-84_years,111
 Kentucky,Male,85_years_and_over,94
-Kentucky,Male,All_Ages,447
 Kentucky,Female,Under_1_year,0
 Kentucky,Female,0-17_years,0
 Kentucky,Female,1-4_years,0
@@ -927,7 +854,6 @@ Kentucky,Female,55-64_years,50
 Kentucky,Female,65-74_years,87
 Kentucky,Female,75-84_years,137
 Kentucky,Female,85_years_and_over,235
-Kentucky,Female,All_Ages,527
 Kentucky,Unknown,Under_1_year,0
 Kentucky,Unknown,0-17_years,0
 Kentucky,Unknown,1-4_years,0
@@ -943,8 +869,6 @@ Kentucky,Unknown,55-64_years,0
 Kentucky,Unknown,65-74_years,0
 Kentucky,Unknown,75-84_years,0
 Kentucky,Unknown,85_years_and_over,0
-Kentucky,Unknown,All_Ages,0
-Kentucky,All_Sexes,All_Ages,974
 Louisiana,Male,Under_1_year,0
 Louisiana,Male,0-17_years,
 Louisiana,Male,1-4_years,
@@ -960,7 +884,6 @@ Louisiana,Male,55-64_years,333
 Louisiana,Male,65-74_years,564
 Louisiana,Male,75-84_years,668
 Louisiana,Male,85_years_and_over,468
-Louisiana,Male,All_Ages,2254
 Louisiana,Female,Under_1_year,
 Louisiana,Female,0-17_years,
 Louisiana,Female,1-4_years,0
@@ -976,7 +899,6 @@ Louisiana,Female,55-64_years,247
 Louisiana,Female,65-74_years,378
 Louisiana,Female,75-84_years,588
 Louisiana,Female,85_years_and_over,649
-Louisiana,Female,All_Ages,2017
 Louisiana,Unknown,Under_1_year,0
 Louisiana,Unknown,0-17_years,0
 Louisiana,Unknown,1-4_years,0
@@ -992,8 +914,6 @@ Louisiana,Unknown,55-64_years,0
 Louisiana,Unknown,65-74_years,0
 Louisiana,Unknown,75-84_years,0
 Louisiana,Unknown,85_years_and_over,0
-Louisiana,Unknown,All_Ages,0
-Louisiana,All_Sexes,All_Ages,4271
 Maine,Male,Under_1_year,0
 Maine,Male,0-17_years,0
 Maine,Male,1-4_years,0
@@ -1009,7 +929,6 @@ Maine,Male,55-64_years,
 Maine,Male,65-74_years,18
 Maine,Male,75-84_years,20
 Maine,Male,85_years_and_over,20
-Maine,Male,All_Ages,68
 Maine,Female,Under_1_year,0
 Maine,Female,0-17_years,0
 Maine,Female,1-4_years,0
@@ -1025,7 +944,6 @@ Maine,Female,55-64_years,
 Maine,Female,65-74_years,
 Maine,Female,75-84_years,24
 Maine,Female,85_years_and_over,41
-Maine,Female,All_Ages,79
 Maine,Unknown,Under_1_year,0
 Maine,Unknown,0-17_years,0
 Maine,Unknown,1-4_years,0
@@ -1041,8 +959,6 @@ Maine,Unknown,55-64_years,0
 Maine,Unknown,65-74_years,0
 Maine,Unknown,75-84_years,0
 Maine,Unknown,85_years_and_over,0
-Maine,Unknown,All_Ages,0
-Maine,All_Sexes,All_Ages,147
 Maryland,Male,Under_1_year,0
 Maryland,Male,0-17_years,0
 Maryland,Male,1-4_years,0
@@ -1058,7 +974,6 @@ Maryland,Male,55-64_years,317
 Maryland,Male,65-74_years,446
 Maryland,Male,75-84_years,585
 Maryland,Male,85_years_and_over,489
-Maryland,Male,All_Ages,2071
 Maryland,Female,Under_1_year,0
 Maryland,Female,0-17_years,
 Maryland,Female,1-4_years,0
@@ -1074,7 +989,6 @@ Maryland,Female,55-64_years,181
 Maryland,Female,65-74_years,352
 Maryland,Female,75-84_years,528
 Maryland,Female,85_years_and_over,821
-Maryland,Female,All_Ages,1992
 Maryland,Unknown,Under_1_year,0
 Maryland,Unknown,0-17_years,0
 Maryland,Unknown,1-4_years,0
@@ -1090,8 +1004,6 @@ Maryland,Unknown,55-64_years,0
 Maryland,Unknown,65-74_years,0
 Maryland,Unknown,75-84_years,0
 Maryland,Unknown,85_years_and_over,0
-Maryland,Unknown,All_Ages,0
-Maryland,All_Sexes,All_Ages,4063
 Massachusetts,Male,Under_1_year,0
 Massachusetts,Male,0-17_years,0
 Massachusetts,Male,1-4_years,0
@@ -1107,7 +1019,6 @@ Massachusetts,Male,55-64_years,340
 Massachusetts,Male,65-74_years,724
 Massachusetts,Male,75-84_years,1135
 Massachusetts,Male,85_years_and_over,1370
-Massachusetts,Male,All_Ages,3718
 Massachusetts,Female,Under_1_year,0
 Massachusetts,Female,0-17_years,0
 Massachusetts,Female,1-4_years,0
@@ -1123,7 +1034,6 @@ Massachusetts,Female,55-64_years,199
 Massachusetts,Female,65-74_years,494
 Massachusetts,Female,75-84_years,1052
 Massachusetts,Female,85_years_and_over,2426
-Massachusetts,Female,All_Ages,4258
 Massachusetts,Unknown,Under_1_year,0
 Massachusetts,Unknown,0-17_years,0
 Massachusetts,Unknown,1-4_years,0
@@ -1139,8 +1049,6 @@ Massachusetts,Unknown,55-64_years,0
 Massachusetts,Unknown,65-74_years,0
 Massachusetts,Unknown,75-84_years,0
 Massachusetts,Unknown,85_years_and_over,0
-Massachusetts,Unknown,All_Ages,0
-Massachusetts,All_Sexes,All_Ages,7976
 Michigan,Male,Under_1_year,0
 Michigan,Male,0-17_years,0
 Michigan,Male,1-4_years,0
@@ -1156,7 +1064,6 @@ Michigan,Male,55-64_years,452
 Michigan,Male,65-74_years,839
 Michigan,Male,75-84_years,873
 Michigan,Male,85_years_and_over,681
-Michigan,Male,All_Ages,3157
 Michigan,Female,Under_1_year,0
 Michigan,Female,0-17_years,
 Michigan,Female,1-4_years,0
@@ -1172,7 +1079,6 @@ Michigan,Female,55-64_years,283
 Michigan,Female,65-74_years,600
 Michigan,Female,75-84_years,717
 Michigan,Female,85_years_and_over,1100
-Michigan,Female,All_Ages,2873
 Michigan,Unknown,Under_1_year,0
 Michigan,Unknown,0-17_years,0
 Michigan,Unknown,1-4_years,0
@@ -1188,8 +1094,6 @@ Michigan,Unknown,55-64_years,0
 Michigan,Unknown,65-74_years,0
 Michigan,Unknown,75-84_years,0
 Michigan,Unknown,85_years_and_over,
-Michigan,Unknown,All_Ages,
-Michigan,All_Sexes,All_Ages,6031
 Minnesota,Male,Under_1_year,0
 Minnesota,Male,0-17_years,0
 Minnesota,Male,1-4_years,0
@@ -1205,7 +1109,6 @@ Minnesota,Male,55-64_years,96
 Minnesota,Male,65-74_years,172
 Minnesota,Male,75-84_years,255
 Minnesota,Male,85_years_and_over,302
-Minnesota,Male,All_Ages,874
 Minnesota,Female,Under_1_year,
 Minnesota,Female,0-17_years,
 Minnesota,Female,1-4_years,0
@@ -1221,7 +1124,6 @@ Minnesota,Female,55-64_years,47
 Minnesota,Female,65-74_years,139
 Minnesota,Female,75-84_years,228
 Minnesota,Female,85_years_and_over,479
-Minnesota,Female,All_Ages,921
 Minnesota,Unknown,Under_1_year,0
 Minnesota,Unknown,0-17_years,0
 Minnesota,Unknown,1-4_years,0
@@ -1237,8 +1139,6 @@ Minnesota,Unknown,55-64_years,0
 Minnesota,Unknown,65-74_years,0
 Minnesota,Unknown,75-84_years,0
 Minnesota,Unknown,85_years_and_over,0
-Minnesota,Unknown,All_Ages,0
-Minnesota,All_Sexes,All_Ages,1795
 Mississippi,Male,Under_1_year,0
 Mississippi,Male,0-17_years,0
 Mississippi,Male,1-4_years,0
@@ -1254,7 +1154,6 @@ Mississippi,Male,55-64_years,175
 Mississippi,Male,65-74_years,321
 Mississippi,Male,75-84_years,334
 Mississippi,Male,85_years_and_over,208
-Mississippi,Male,All_Ages,1161
 Mississippi,Female,Under_1_year,0
 Mississippi,Female,0-17_years,0
 Mississippi,Female,1-4_years,0
@@ -1270,7 +1169,6 @@ Mississippi,Female,55-64_years,171
 Mississippi,Female,65-74_years,242
 Mississippi,Female,75-84_years,286
 Mississippi,Female,85_years_and_over,350
-Mississippi,Female,All_Ages,1170
 Mississippi,Unknown,Under_1_year,0
 Mississippi,Unknown,0-17_years,0
 Mississippi,Unknown,1-4_years,0
@@ -1286,8 +1184,6 @@ Mississippi,Unknown,55-64_years,0
 Mississippi,Unknown,65-74_years,0
 Mississippi,Unknown,75-84_years,
 Mississippi,Unknown,85_years_and_over,0
-Mississippi,Unknown,All_Ages,
-Mississippi,All_Sexes,All_Ages,2332
 Missouri,Male,Under_1_year,0
 Missouri,Male,0-17_years,0
 Missouri,Male,1-4_years,0
@@ -1303,7 +1199,6 @@ Missouri,Male,55-64_years,100
 Missouri,Male,65-74_years,194
 Missouri,Male,75-84_years,232
 Missouri,Male,85_years_and_over,204
-Missouri,Male,All_Ages,780
 Missouri,Female,Under_1_year,0
 Missouri,Female,0-17_years,0
 Missouri,Female,1-4_years,0
@@ -1319,7 +1214,6 @@ Missouri,Female,55-64_years,63
 Missouri,Female,65-74_years,133
 Missouri,Female,75-84_years,188
 Missouri,Female,85_years_and_over,376
-Missouri,Female,All_Ages,792
 Missouri,Unknown,Under_1_year,0
 Missouri,Unknown,0-17_years,0
 Missouri,Unknown,1-4_years,0
@@ -1335,8 +1229,6 @@ Missouri,Unknown,55-64_years,0
 Missouri,Unknown,65-74_years,0
 Missouri,Unknown,75-84_years,0
 Missouri,Unknown,85_years_and_over,0
-Missouri,Unknown,All_Ages,0
-Missouri,All_Sexes,All_Ages,1572
 Montana,Male,Under_1_year,0
 Montana,Male,0-17_years,0
 Montana,Male,1-4_years,0
@@ -1352,7 +1244,6 @@ Montana,Male,55-64_years,
 Montana,Male,65-74_years,14
 Montana,Male,75-84_years,15
 Montana,Male,85_years_and_over,11
-Montana,Male,All_Ages,49
 Montana,Female,Under_1_year,0
 Montana,Female,0-17_years,0
 Montana,Female,1-4_years,0
@@ -1368,7 +1259,6 @@ Montana,Female,55-64_years,
 Montana,Female,65-74_years,
 Montana,Female,75-84_years,14
 Montana,Female,85_years_and_over,18
-Montana,Female,All_Ages,43
 Montana,Unknown,Under_1_year,0
 Montana,Unknown,0-17_years,0
 Montana,Unknown,1-4_years,0
@@ -1384,8 +1274,6 @@ Montana,Unknown,55-64_years,0
 Montana,Unknown,65-74_years,0
 Montana,Unknown,75-84_years,0
 Montana,Unknown,85_years_and_over,0
-Montana,Unknown,All_Ages,0
-Montana,All_Sexes,All_Ages,92
 Nebraska,Male,Under_1_year,0
 Nebraska,Male,0-17_years,0
 Nebraska,Male,1-4_years,0
@@ -1401,7 +1289,6 @@ Nebraska,Male,55-64_years,32
 Nebraska,Male,65-74_years,57
 Nebraska,Male,75-84_years,55
 Nebraska,Male,85_years_and_over,41
-Nebraska,Male,All_Ages,212
 Nebraska,Female,Under_1_year,0
 Nebraska,Female,0-17_years,0
 Nebraska,Female,1-4_years,0
@@ -1417,7 +1304,6 @@ Nebraska,Female,55-64_years,22
 Nebraska,Female,65-74_years,27
 Nebraska,Female,75-84_years,45
 Nebraska,Female,85_years_and_over,71
-Nebraska,Female,All_Ages,176
 Nebraska,Unknown,Under_1_year,0
 Nebraska,Unknown,0-17_years,0
 Nebraska,Unknown,1-4_years,0
@@ -1433,8 +1319,6 @@ Nebraska,Unknown,55-64_years,0
 Nebraska,Unknown,65-74_years,0
 Nebraska,Unknown,75-84_years,0
 Nebraska,Unknown,85_years_and_over,0
-Nebraska,Unknown,All_Ages,0
-Nebraska,All_Sexes,All_Ages,388
 Nevada,Male,Under_1_year,0
 Nevada,Male,0-17_years,
 Nevada,Male,1-4_years,0
@@ -1450,7 +1334,6 @@ Nevada,Male,55-64_years,106
 Nevada,Male,65-74_years,201
 Nevada,Male,75-84_years,222
 Nevada,Male,85_years_and_over,116
-Nevada,Male,All_Ages,750
 Nevada,Female,Under_1_year,0
 Nevada,Female,0-17_years,0
 Nevada,Female,1-4_years,0
@@ -1466,7 +1349,6 @@ Nevada,Female,55-64_years,59
 Nevada,Female,65-74_years,118
 Nevada,Female,75-84_years,139
 Nevada,Female,85_years_and_over,108
-Nevada,Female,All_Ages,461
 Nevada,Unknown,Under_1_year,0
 Nevada,Unknown,0-17_years,0
 Nevada,Unknown,1-4_years,0
@@ -1482,8 +1364,6 @@ Nevada,Unknown,55-64_years,0
 Nevada,Unknown,65-74_years,0
 Nevada,Unknown,75-84_years,0
 Nevada,Unknown,85_years_and_over,0
-Nevada,Unknown,All_Ages,0
-Nevada,All_Sexes,All_Ages,1211
 New_Hampshire,Male,Under_1_year,0
 New_Hampshire,Male,0-17_years,0
 New_Hampshire,Male,1-4_years,0
@@ -1499,7 +1379,6 @@ New_Hampshire,Male,55-64_years,14
 New_Hampshire,Male,65-74_years,34
 New_Hampshire,Male,75-84_years,63
 New_Hampshire,Male,85_years_and_over,81
-New_Hampshire,Male,All_Ages,203
 New_Hampshire,Female,Under_1_year,0
 New_Hampshire,Female,0-17_years,0
 New_Hampshire,Female,1-4_years,0
@@ -1515,7 +1394,6 @@ New_Hampshire,Female,55-64_years,
 New_Hampshire,Female,65-74_years,26
 New_Hampshire,Female,75-84_years,54
 New_Hampshire,Female,85_years_and_over,127
-New_Hampshire,Female,All_Ages,212
 New_Hampshire,Unknown,Under_1_year,0
 New_Hampshire,Unknown,0-17_years,0
 New_Hampshire,Unknown,1-4_years,0
@@ -1531,8 +1409,6 @@ New_Hampshire,Unknown,55-64_years,0
 New_Hampshire,Unknown,65-74_years,0
 New_Hampshire,Unknown,75-84_years,0
 New_Hampshire,Unknown,85_years_and_over,0
-New_Hampshire,Unknown,All_Ages,0
-New_Hampshire,All_Sexes,All_Ages,415
 New_Jersey,Male,Under_1_year,0
 New_Jersey,Male,0-17_years,0
 New_Jersey,Male,1-4_years,0
@@ -1548,7 +1424,6 @@ New_Jersey,Male,55-64_years,1245
 New_Jersey,Male,65-74_years,1730
 New_Jersey,Male,75-84_years,1939
 New_Jersey,Male,85_years_and_over,1780
-New_Jersey,Male,All_Ages,7545
 New_Jersey,Female,Under_1_year,0
 New_Jersey,Female,0-17_years,
 New_Jersey,Female,1-4_years,
@@ -1564,7 +1439,6 @@ New_Jersey,Female,55-64_years,572
 New_Jersey,Female,65-74_years,1016
 New_Jersey,Female,75-84_years,1742
 New_Jersey,Female,85_years_and_over,3005
-New_Jersey,Female,All_Ages,6626
 New_Jersey,Unknown,Under_1_year,0
 New_Jersey,Unknown,0-17_years,0
 New_Jersey,Unknown,1-4_years,0
@@ -1580,8 +1454,6 @@ New_Jersey,Unknown,55-64_years,0
 New_Jersey,Unknown,65-74_years,
 New_Jersey,Unknown,75-84_years,0
 New_Jersey,Unknown,85_years_and_over,0
-New_Jersey,Unknown,All_Ages,
-New_Jersey,All_Sexes,All_Ages,14172
 New_Mexico,Male,Under_1_year,0
 New_Mexico,Male,0-17_years,0
 New_Mexico,Male,1-4_years,0
@@ -1597,7 +1469,6 @@ New_Mexico,Male,55-64_years,61
 New_Mexico,Male,65-74_years,89
 New_Mexico,Male,75-84_years,75
 New_Mexico,Male,85_years_and_over,83
-New_Mexico,Male,All_Ages,385
 New_Mexico,Female,Under_1_year,0
 New_Mexico,Female,0-17_years,0
 New_Mexico,Female,1-4_years,0
@@ -1613,7 +1484,6 @@ New_Mexico,Female,55-64_years,44
 New_Mexico,Female,65-74_years,58
 New_Mexico,Female,75-84_years,97
 New_Mexico,Female,85_years_and_over,119
-New_Mexico,Female,All_Ages,358
 New_Mexico,Unknown,Under_1_year,0
 New_Mexico,Unknown,0-17_years,0
 New_Mexico,Unknown,1-4_years,0
@@ -1629,8 +1499,6 @@ New_Mexico,Unknown,55-64_years,0
 New_Mexico,Unknown,65-74_years,0
 New_Mexico,Unknown,75-84_years,0
 New_Mexico,Unknown,85_years_and_over,0
-New_Mexico,Unknown,All_Ages,0
-New_Mexico,All_Sexes,All_Ages,743
 New_York,Male,Under_1_year,0
 New_York,Male,0-17_years,
 New_York,Male,1-4_years,0
@@ -1646,7 +1514,6 @@ New_York,Male,55-64_years,915
 New_York,Male,65-74_years,1470
 New_York,Male,75-84_years,1611
 New_York,Male,85_years_and_over,1532
-New_York,Male,All_Ages,6094
 New_York,Female,Under_1_year,0
 New_York,Female,0-17_years,
 New_York,Female,1-4_years,0
@@ -1662,7 +1529,6 @@ New_York,Female,55-64_years,441
 New_York,Female,65-74_years,828
 New_York,Female,75-84_years,1342
 New_York,Female,85_years_and_over,2624
-New_York,Female,All_Ages,5443
 New_York,Unknown,Under_1_year,0
 New_York,Unknown,0-17_years,0
 New_York,Unknown,1-4_years,0
@@ -1678,8 +1544,6 @@ New_York,Unknown,55-64_years,0
 New_York,Unknown,65-74_years,0
 New_York,Unknown,75-84_years,0
 New_York,Unknown,85_years_and_over,0
-New_York,Unknown,All_Ages,0
-New_York,All_Sexes,All_Ages,11537
 New_York_City,Male,Under_1_year,
 New_York_City,Male,0-17_years,
 New_York_City,Male,1-4_years,
@@ -1695,7 +1559,6 @@ New_York_City,Male,55-64_years,2223
 New_York_City,Male,65-74_years,3268
 New_York_City,Male,75-84_years,3109
 New_York_City,Male,85_years_and_over,2110
-New_York_City,Male,All_Ages,12245
 New_York_City,Female,Under_1_year,
 New_York_City,Female,0-17_years,
 New_York_City,Female,1-4_years,
@@ -1711,7 +1574,6 @@ New_York_City,Female,55-64_years,1057
 New_York_City,Female,65-74_years,1760
 New_York_City,Female,75-84_years,2289
 New_York_City,Female,85_years_and_over,2737
-New_York_City,Female,All_Ages,8421
 New_York_City,Unknown,Under_1_year,0
 New_York_City,Unknown,0-17_years,0
 New_York_City,Unknown,1-4_years,0
@@ -1727,8 +1589,6 @@ New_York_City,Unknown,55-64_years,0
 New_York_City,Unknown,65-74_years,0
 New_York_City,Unknown,75-84_years,0
 New_York_City,Unknown,85_years_and_over,0
-New_York_City,Unknown,All_Ages,0
-New_York_City,All_Sexes,All_Ages,20666
 North_Carolina,Male,Under_1_year,0
 North_Carolina,Male,0-17_years,0
 North_Carolina,Male,1-4_years,0
@@ -1744,7 +1604,6 @@ North_Carolina,Male,55-64_years,157
 North_Carolina,Male,65-74_years,248
 North_Carolina,Male,75-84_years,305
 North_Carolina,Male,85_years_and_over,244
-North_Carolina,Male,All_Ages,1079
 North_Carolina,Female,Under_1_year,0
 North_Carolina,Female,0-17_years,0
 North_Carolina,Female,1-4_years,0
@@ -1760,7 +1619,6 @@ North_Carolina,Female,55-64_years,78
 North_Carolina,Female,65-74_years,189
 North_Carolina,Female,75-84_years,261
 North_Carolina,Female,85_years_and_over,359
-North_Carolina,Female,All_Ages,950
 North_Carolina,Unknown,Under_1_year,0
 North_Carolina,Unknown,0-17_years,0
 North_Carolina,Unknown,1-4_years,0
@@ -1776,8 +1634,6 @@ North_Carolina,Unknown,55-64_years,0
 North_Carolina,Unknown,65-74_years,0
 North_Carolina,Unknown,75-84_years,0
 North_Carolina,Unknown,85_years_and_over,0
-North_Carolina,Unknown,All_Ages,0
-North_Carolina,All_Sexes,All_Ages,2029
 North_Dakota,Male,Under_1_year,0
 North_Dakota,Male,0-17_years,0
 North_Dakota,Male,1-4_years,0
@@ -1793,7 +1649,6 @@ North_Dakota,Male,55-64_years,14
 North_Dakota,Male,65-74_years,17
 North_Dakota,Male,75-84_years,19
 North_Dakota,Male,85_years_and_over,27
-North_Dakota,Male,All_Ages,87
 North_Dakota,Female,Under_1_year,0
 North_Dakota,Female,0-17_years,0
 North_Dakota,Female,1-4_years,0
@@ -1809,7 +1664,6 @@ North_Dakota,Female,55-64_years,
 North_Dakota,Female,65-74_years,
 North_Dakota,Female,75-84_years,24
 North_Dakota,Female,85_years_and_over,36
-North_Dakota,Female,All_Ages,77
 North_Dakota,Unknown,Under_1_year,0
 North_Dakota,Unknown,0-17_years,0
 North_Dakota,Unknown,1-4_years,0
@@ -1825,8 +1679,6 @@ North_Dakota,Unknown,55-64_years,0
 North_Dakota,Unknown,65-74_years,0
 North_Dakota,Unknown,75-84_years,0
 North_Dakota,Unknown,85_years_and_over,0
-North_Dakota,Unknown,All_Ages,0
-North_Dakota,All_Sexes,All_Ages,164
 Ohio,Male,Under_1_year,0
 Ohio,Male,0-17_years,0
 Ohio,Male,1-4_years,0
@@ -1842,7 +1694,6 @@ Ohio,Male,55-64_years,244
 Ohio,Male,65-74_years,480
 Ohio,Male,75-84_years,547
 Ohio,Male,85_years_and_over,532
-Ohio,Male,All_Ages,1916
 Ohio,Female,Under_1_year,0
 Ohio,Female,0-17_years,
 Ohio,Female,1-4_years,0
@@ -1858,7 +1709,6 @@ Ohio,Female,55-64_years,127
 Ohio,Female,65-74_years,280
 Ohio,Female,75-84_years,531
 Ohio,Female,85_years_and_over,827
-Ohio,Female,All_Ages,1821
 Ohio,Unknown,Under_1_year,0
 Ohio,Unknown,0-17_years,0
 Ohio,Unknown,1-4_years,0
@@ -1874,8 +1724,6 @@ Ohio,Unknown,55-64_years,0
 Ohio,Unknown,65-74_years,0
 Ohio,Unknown,75-84_years,0
 Ohio,Unknown,85_years_and_over,0
-Ohio,Unknown,All_Ages,0
-Ohio,All_Sexes,All_Ages,3737
 Oklahoma,Male,Under_1_year,
 Oklahoma,Male,0-17_years,
 Oklahoma,Male,1-4_years,0
@@ -1891,7 +1739,6 @@ Oklahoma,Male,55-64_years,72
 Oklahoma,Male,65-74_years,121
 Oklahoma,Male,75-84_years,125
 Oklahoma,Male,85_years_and_over,115
-Oklahoma,Male,All_Ages,462
 Oklahoma,Female,Under_1_year,0
 Oklahoma,Female,0-17_years,
 Oklahoma,Female,1-4_years,0
@@ -1907,7 +1754,6 @@ Oklahoma,Female,55-64_years,46
 Oklahoma,Female,65-74_years,99
 Oklahoma,Female,75-84_years,92
 Oklahoma,Female,85_years_and_over,120
-Oklahoma,Female,All_Ages,383
 Oklahoma,Unknown,Under_1_year,0
 Oklahoma,Unknown,0-17_years,0
 Oklahoma,Unknown,1-4_years,0
@@ -1923,8 +1769,6 @@ Oklahoma,Unknown,55-64_years,0
 Oklahoma,Unknown,65-74_years,0
 Oklahoma,Unknown,75-84_years,0
 Oklahoma,Unknown,85_years_and_over,0
-Oklahoma,Unknown,All_Ages,0
-Oklahoma,All_Sexes,All_Ages,845
 Oregon,Male,Under_1_year,0
 Oregon,Male,0-17_years,0
 Oregon,Male,1-4_years,0
@@ -1940,7 +1784,6 @@ Oregon,Male,55-64_years,33
 Oregon,Male,65-74_years,58
 Oregon,Male,75-84_years,64
 Oregon,Male,85_years_and_over,65
-Oregon,Male,All_Ages,239
 Oregon,Female,Under_1_year,0
 Oregon,Female,0-17_years,0
 Oregon,Female,1-4_years,0
@@ -1956,7 +1799,6 @@ Oregon,Female,55-64_years,17
 Oregon,Female,65-74_years,31
 Oregon,Female,75-84_years,44
 Oregon,Female,85_years_and_over,85
-Oregon,Female,All_Ages,185
 Oregon,Unknown,Under_1_year,0
 Oregon,Unknown,0-17_years,0
 Oregon,Unknown,1-4_years,0
@@ -1972,8 +1814,6 @@ Oregon,Unknown,55-64_years,0
 Oregon,Unknown,65-74_years,0
 Oregon,Unknown,75-84_years,0
 Oregon,Unknown,85_years_and_over,0
-Oregon,Unknown,All_Ages,0
-Oregon,All_Sexes,All_Ages,424
 Pennsylvania,Male,Under_1_year,0
 Pennsylvania,Male,0-17_years,
 Pennsylvania,Male,1-4_years,0
@@ -1989,7 +1829,6 @@ Pennsylvania,Male,55-64_years,454
 Pennsylvania,Male,65-74_years,856
 Pennsylvania,Male,75-84_years,1106
 Pennsylvania,Male,85_years_and_over,1232
-Pennsylvania,Male,All_Ages,3890
 Pennsylvania,Female,Under_1_year,0
 Pennsylvania,Female,0-17_years,0
 Pennsylvania,Female,1-4_years,0
@@ -2005,7 +1844,6 @@ Pennsylvania,Female,55-64_years,262
 Pennsylvania,Female,65-74_years,594
 Pennsylvania,Female,75-84_years,969
 Pennsylvania,Female,85_years_and_over,2180
-Pennsylvania,Female,All_Ages,4109
 Pennsylvania,Unknown,Under_1_year,0
 Pennsylvania,Unknown,0-17_years,0
 Pennsylvania,Unknown,1-4_years,0
@@ -2021,8 +1859,6 @@ Pennsylvania,Unknown,55-64_years,0
 Pennsylvania,Unknown,65-74_years,0
 Pennsylvania,Unknown,75-84_years,0
 Pennsylvania,Unknown,85_years_and_over,0
-Pennsylvania,Unknown,All_Ages,0
-Pennsylvania,All_Sexes,All_Ages,7999
 Rhode_Island,Male,Under_1_year,0
 Rhode_Island,Male,0-17_years,0
 Rhode_Island,Male,1-4_years,0
@@ -2038,7 +1874,6 @@ Rhode_Island,Male,55-64_years,52
 Rhode_Island,Male,65-74_years,106
 Rhode_Island,Male,75-84_years,136
 Rhode_Island,Male,85_years_and_over,150
-Rhode_Island,Male,All_Ages,464
 Rhode_Island,Female,Under_1_year,0
 Rhode_Island,Female,0-17_years,
 Rhode_Island,Female,1-4_years,0
@@ -2054,7 +1889,6 @@ Rhode_Island,Female,55-64_years,21
 Rhode_Island,Female,65-74_years,80
 Rhode_Island,Female,75-84_years,128
 Rhode_Island,Female,85_years_and_over,315
-Rhode_Island,Female,All_Ages,554
 Rhode_Island,Unknown,Under_1_year,0
 Rhode_Island,Unknown,0-17_years,0
 Rhode_Island,Unknown,1-4_years,0
@@ -2070,8 +1904,6 @@ Rhode_Island,Unknown,55-64_years,0
 Rhode_Island,Unknown,65-74_years,0
 Rhode_Island,Unknown,75-84_years,0
 Rhode_Island,Unknown,85_years_and_over,0
-Rhode_Island,Unknown,All_Ages,0
-Rhode_Island,All_Sexes,All_Ages,1018
 South_Carolina,Male,Under_1_year,
 South_Carolina,Male,0-17_years,
 South_Carolina,Male,1-4_years,0
@@ -2087,7 +1919,6 @@ South_Carolina,Male,55-64_years,170
 South_Carolina,Male,65-74_years,335
 South_Carolina,Male,75-84_years,438
 South_Carolina,Male,85_years_and_over,276
-South_Carolina,Male,All_Ages,1333
 South_Carolina,Female,Under_1_year,0
 South_Carolina,Female,0-17_years,0
 South_Carolina,Female,1-4_years,0
@@ -2103,7 +1934,6 @@ South_Carolina,Female,55-64_years,156
 South_Carolina,Female,65-74_years,290
 South_Carolina,Female,75-84_years,346
 South_Carolina,Female,85_years_and_over,434
-South_Carolina,Female,All_Ages,1282
 South_Carolina,Unknown,Under_1_year,0
 South_Carolina,Unknown,0-17_years,0
 South_Carolina,Unknown,1-4_years,0
@@ -2119,8 +1949,6 @@ South_Carolina,Unknown,55-64_years,0
 South_Carolina,Unknown,65-74_years,0
 South_Carolina,Unknown,75-84_years,0
 South_Carolina,Unknown,85_years_and_over,0
-South_Carolina,Unknown,All_Ages,0
-South_Carolina,All_Sexes,All_Ages,2615
 South_Dakota,Male,Under_1_year,0
 South_Dakota,Male,0-17_years,0
 South_Dakota,Male,1-4_years,0
@@ -2136,7 +1964,6 @@ South_Dakota,Male,55-64_years,19
 South_Dakota,Male,65-74_years,16
 South_Dakota,Male,75-84_years,16
 South_Dakota,Male,85_years_and_over,23
-South_Dakota,Male,All_Ages,92
 South_Dakota,Female,Under_1_year,0
 South_Dakota,Female,0-17_years,0
 South_Dakota,Female,1-4_years,0
@@ -2152,7 +1979,6 @@ South_Dakota,Female,55-64_years,12
 South_Dakota,Female,65-74_years,16
 South_Dakota,Female,75-84_years,13
 South_Dakota,Female,85_years_and_over,41
-South_Dakota,Female,All_Ages,89
 South_Dakota,Unknown,Under_1_year,0
 South_Dakota,Unknown,0-17_years,0
 South_Dakota,Unknown,1-4_years,0
@@ -2168,8 +1994,6 @@ South_Dakota,Unknown,55-64_years,0
 South_Dakota,Unknown,65-74_years,0
 South_Dakota,Unknown,75-84_years,0
 South_Dakota,Unknown,85_years_and_over,0
-South_Dakota,Unknown,All_Ages,0
-South_Dakota,All_Sexes,All_Ages,181
 Tennessee,Male,Under_1_year,
 Tennessee,Male,0-17_years,
 Tennessee,Male,1-4_years,
@@ -2185,7 +2009,6 @@ Tennessee,Male,55-64_years,164
 Tennessee,Male,65-74_years,237
 Tennessee,Male,75-84_years,289
 Tennessee,Male,85_years_and_over,169
-Tennessee,Male,All_Ages,960
 Tennessee,Female,Under_1_year,0
 Tennessee,Female,0-17_years,
 Tennessee,Female,1-4_years,
@@ -2201,7 +2024,6 @@ Tennessee,Female,55-64_years,98
 Tennessee,Female,65-74_years,152
 Tennessee,Female,75-84_years,195
 Tennessee,Female,85_years_and_over,209
-Tennessee,Female,All_Ages,717
 Tennessee,Unknown,Under_1_year,0
 Tennessee,Unknown,0-17_years,0
 Tennessee,Unknown,1-4_years,0
@@ -2217,8 +2039,6 @@ Tennessee,Unknown,55-64_years,0
 Tennessee,Unknown,65-74_years,0
 Tennessee,Unknown,75-84_years,0
 Tennessee,Unknown,85_years_and_over,0
-Tennessee,Unknown,All_Ages,0
-Tennessee,All_Sexes,All_Ages,1677
 Texas,Male,Under_1_year,
 Texas,Male,0-17_years,11
 Texas,Male,1-4_years,
@@ -2234,7 +2054,6 @@ Texas,Male,55-64_years,1354
 Texas,Male,65-74_years,1914
 Texas,Male,75-84_years,1810
 Texas,Male,85_years_and_over,1194
-Texas,Male,All_Ages,7373
 Texas,Female,Under_1_year,
 Texas,Female,0-17_years,
 Texas,Female,1-4_years,
@@ -2250,7 +2069,6 @@ Texas,Female,55-64_years,732
 Texas,Female,65-74_years,1171
 Texas,Female,75-84_years,1268
 Texas,Female,85_years_and_over,1471
-Texas,Female,All_Ages,5185
 Texas,Unknown,Under_1_year,0
 Texas,Unknown,0-17_years,0
 Texas,Unknown,1-4_years,0
@@ -2266,8 +2084,6 @@ Texas,Unknown,55-64_years,0
 Texas,Unknown,65-74_years,0
 Texas,Unknown,75-84_years,0
 Texas,Unknown,85_years_and_over,0
-Texas,Unknown,All_Ages,0
-Texas,All_Sexes,All_Ages,12558
 Utah,Male,Under_1_year,0
 Utah,Male,0-17_years,0
 Utah,Male,1-4_years,0
@@ -2283,7 +2099,6 @@ Utah,Male,55-64_years,49
 Utah,Male,65-74_years,58
 Utah,Male,75-84_years,67
 Utah,Male,85_years_and_over,47
-Utah,Male,All_Ages,254
 Utah,Female,Under_1_year,0
 Utah,Female,0-17_years,0
 Utah,Female,1-4_years,0
@@ -2299,7 +2114,6 @@ Utah,Female,55-64_years,16
 Utah,Female,65-74_years,34
 Utah,Female,75-84_years,43
 Utah,Female,85_years_and_over,52
-Utah,Female,All_Ages,161
 Utah,Unknown,Under_1_year,0
 Utah,Unknown,0-17_years,0
 Utah,Unknown,1-4_years,0
@@ -2315,8 +2129,6 @@ Utah,Unknown,55-64_years,0
 Utah,Unknown,65-74_years,0
 Utah,Unknown,75-84_years,0
 Utah,Unknown,85_years_and_over,0
-Utah,Unknown,All_Ages,0
-Utah,All_Sexes,All_Ages,415
 Vermont,Male,Under_1_year,0
 Vermont,Male,0-17_years,0
 Vermont,Male,1-4_years,0
@@ -2332,7 +2144,6 @@ Vermont,Male,55-64_years,
 Vermont,Male,65-74_years,
 Vermont,Male,75-84_years,16
 Vermont,Male,85_years_and_over,
-Vermont,Male,All_Ages,35
 Vermont,Female,Under_1_year,0
 Vermont,Female,0-17_years,0
 Vermont,Female,1-4_years,0
@@ -2348,7 +2159,6 @@ Vermont,Female,55-64_years,0
 Vermont,Female,65-74_years,
 Vermont,Female,75-84_years,
 Vermont,Female,85_years_and_over,10
-Vermont,Female,All_Ages,24
 Vermont,Unknown,Under_1_year,0
 Vermont,Unknown,0-17_years,0
 Vermont,Unknown,1-4_years,0
@@ -2364,8 +2174,6 @@ Vermont,Unknown,55-64_years,0
 Vermont,Unknown,65-74_years,0
 Vermont,Unknown,75-84_years,0
 Vermont,Unknown,85_years_and_over,0
-Vermont,Unknown,All_Ages,0
-Vermont,All_Sexes,All_Ages,59
 Virginia,Male,Under_1_year,0
 Virginia,Male,0-17_years,0
 Virginia,Male,1-4_years,0
@@ -2381,7 +2189,6 @@ Virginia,Male,55-64_years,200
 Virginia,Male,65-74_years,324
 Virginia,Male,75-84_years,397
 Virginia,Male,85_years_and_over,346
-Virginia,Male,All_Ages,1379
 Virginia,Female,Under_1_year,0
 Virginia,Female,0-17_years,0
 Virginia,Female,1-4_years,0
@@ -2397,7 +2204,6 @@ Virginia,Female,55-64_years,103
 Virginia,Female,65-74_years,230
 Virginia,Female,75-84_years,346
 Virginia,Female,85_years_and_over,603
-Virginia,Female,All_Ages,1349
 Virginia,Unknown,Under_1_year,0
 Virginia,Unknown,0-17_years,0
 Virginia,Unknown,1-4_years,0
@@ -2413,8 +2219,6 @@ Virginia,Unknown,55-64_years,0
 Virginia,Unknown,65-74_years,0
 Virginia,Unknown,75-84_years,0
 Virginia,Unknown,85_years_and_over,0
-Virginia,Unknown,All_Ages,
-Virginia,All_Sexes,All_Ages,2729
 Washington,Male,Under_1_year,0
 Washington,Male,0-17_years,0
 Washington,Male,1-4_years,0
@@ -2430,7 +2234,6 @@ Washington,Male,55-64_years,117
 Washington,Male,65-74_years,199
 Washington,Male,75-84_years,252
 Washington,Male,85_years_and_over,290
-Washington,Male,All_Ages,937
 Washington,Female,Under_1_year,0
 Washington,Female,0-17_years,0
 Washington,Female,1-4_years,0
@@ -2446,7 +2249,6 @@ Washington,Female,55-64_years,57
 Washington,Female,65-74_years,134
 Washington,Female,75-84_years,215
 Washington,Female,85_years_and_over,342
-Washington,Female,All_Ages,782
 Washington,Unknown,Under_1_year,0
 Washington,Unknown,0-17_years,0
 Washington,Unknown,1-4_years,0
@@ -2462,8 +2264,6 @@ Washington,Unknown,55-64_years,0
 Washington,Unknown,65-74_years,0
 Washington,Unknown,75-84_years,0
 Washington,Unknown,85_years_and_over,0
-Washington,Unknown,All_Ages,0
-Washington,All_Sexes,All_Ages,1719
 West_Virginia,Male,Under_1_year,0
 West_Virginia,Male,0-17_years,0
 West_Virginia,Male,1-4_years,0
@@ -2479,7 +2279,6 @@ West_Virginia,Male,55-64_years,
 West_Virginia,Male,65-74_years,27
 West_Virginia,Male,75-84_years,27
 West_Virginia,Male,85_years_and_over,20
-West_Virginia,Male,All_Ages,82
 West_Virginia,Female,Under_1_year,0
 West_Virginia,Female,0-17_years,0
 West_Virginia,Female,1-4_years,0
@@ -2495,7 +2294,6 @@ West_Virginia,Female,55-64_years,
 West_Virginia,Female,65-74_years,21
 West_Virginia,Female,75-84_years,25
 West_Virginia,Female,85_years_and_over,43
-West_Virginia,Female,All_Ages,100
 West_Virginia,Unknown,Under_1_year,0
 West_Virginia,Unknown,0-17_years,0
 West_Virginia,Unknown,1-4_years,0
@@ -2511,8 +2309,6 @@ West_Virginia,Unknown,55-64_years,0
 West_Virginia,Unknown,65-74_years,0
 West_Virginia,Unknown,75-84_years,0
 West_Virginia,Unknown,85_years_and_over,0
-West_Virginia,Unknown,All_Ages,0
-West_Virginia,All_Sexes,All_Ages,182
 Wisconsin,Male,Under_1_year,
 Wisconsin,Male,0-17_years,
 Wisconsin,Male,1-4_years,0
@@ -2528,7 +2324,6 @@ Wisconsin,Male,55-64_years,79
 Wisconsin,Male,65-74_years,154
 Wisconsin,Male,75-84_years,157
 Wisconsin,Male,85_years_and_over,154
-Wisconsin,Male,All_Ages,600
 Wisconsin,Female,Under_1_year,0
 Wisconsin,Female,0-17_years,0
 Wisconsin,Female,1-4_years,0
@@ -2544,7 +2339,6 @@ Wisconsin,Female,55-64_years,50
 Wisconsin,Female,65-74_years,98
 Wisconsin,Female,75-84_years,137
 Wisconsin,Female,85_years_and_over,197
-Wisconsin,Female,All_Ages,516
 Wisconsin,Unknown,Under_1_year,0
 Wisconsin,Unknown,0-17_years,0
 Wisconsin,Unknown,1-4_years,0
@@ -2560,8 +2354,6 @@ Wisconsin,Unknown,55-64_years,0
 Wisconsin,Unknown,65-74_years,0
 Wisconsin,Unknown,75-84_years,0
 Wisconsin,Unknown,85_years_and_over,0
-Wisconsin,Unknown,All_Ages,0
-Wisconsin,All_Sexes,All_Ages,1116
 Wyoming,Male,Under_1_year,0
 Wyoming,Male,0-17_years,0
 Wyoming,Male,1-4_years,0
@@ -2577,7 +2369,6 @@ Wyoming,Male,55-64_years,
 Wyoming,Male,65-74_years,
 Wyoming,Male,75-84_years,
 Wyoming,Male,85_years_and_over,
-Wyoming,Male,All_Ages,17
 Wyoming,Female,Under_1_year,0
 Wyoming,Female,0-17_years,0
 Wyoming,Female,1-4_years,0
@@ -2593,7 +2384,6 @@ Wyoming,Female,55-64_years,
 Wyoming,Female,65-74_years,
 Wyoming,Female,75-84_years,
 Wyoming,Female,85_years_and_over,
-Wyoming,Female,All_Ages,16
 Wyoming,Unknown,Under_1_year,0
 Wyoming,Unknown,0-17_years,0
 Wyoming,Unknown,1-4_years,0
@@ -2609,8 +2399,6 @@ Wyoming,Unknown,55-64_years,0
 Wyoming,Unknown,65-74_years,0
 Wyoming,Unknown,75-84_years,0
 Wyoming,Unknown,85_years_and_over,0
-Wyoming,Unknown,All_Ages,0
-Wyoming,All_Sexes,All_Ages,33
 Puerto_Rico,Male,Under_1_year,0
 Puerto_Rico,Male,0-17_years,0
 Puerto_Rico,Male,1-4_years,0
@@ -2626,7 +2414,6 @@ Puerto_Rico,Male,55-64_years,31
 Puerto_Rico,Male,65-74_years,61
 Puerto_Rico,Male,75-84_years,61
 Puerto_Rico,Male,85_years_and_over,41
-Puerto_Rico,Male,All_Ages,227
 Puerto_Rico,Female,Under_1_year,0
 Puerto_Rico,Female,0-17_years,
 Puerto_Rico,Female,1-4_years,0
@@ -2642,7 +2429,6 @@ Puerto_Rico,Female,55-64_years,21
 Puerto_Rico,Female,65-74_years,32
 Puerto_Rico,Female,75-84_years,44
 Puerto_Rico,Female,85_years_and_over,39
-Puerto_Rico,Female,All_Ages,153
 Puerto_Rico,Unknown,Under_1_year,0
 Puerto_Rico,Unknown,0-17_years,0
 Puerto_Rico,Unknown,1-4_years,0
@@ -2657,5 +2443,3 @@ Puerto_Rico,Unknown,55-64_years,0
 Puerto_Rico,Unknown,65-74_years,0
 Puerto_Rico,Unknown,75-84_years,0
 Puerto_Rico,Unknown,85_years_and_over,0
-Puerto_Rico,Unknown,All_Ages,0
-Puerto_Rico,All_Sexes,All_Ages,380
